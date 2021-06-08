@@ -1,0 +1,90 @@
+#!/usr/bin/env python3
+#
+# Copyright © 2021 Lionir
+#
+# This program is free software; you can redistribute it and/or
+# modify it under the terms of the GNU Lesser General Public
+# License as published by the Free Software Foundation;
+# version 2.1 of the License.
+#
+# This library is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+# Lesser General Public License for more details.
+#
+# You should have received a copy of the GNU Lesser General Public
+# License along with this library. If not, see <https://www.gnu.org/licenses/>.
+#
+
+import os, sys, fnmatch, json, shutil
+import requests
+    
+# Make sure folder is there to git clone later
+if not os.path.isdir('flathub'):
+   os.makedirs('flathub')
+
+# Patterns are here to be easy to change in the future
+package_pattern = ["*.*.*", "*.*.*.*", "*.*.*.*.*", "*.*.*.*.*"]
+not_application_pattern = ["org.kde.PlatformTheme.*", "org.gtk.Gtk3theme.*", "org.kde.KStyle.*", "org.freedesktop.Platform.Icontheme.*", "org.freedesktop.Platform.GL.nvidia"]
+
+# Right now there are 18 pages with 100 repos per page
+for i in range(18):
+    url=f"https://api.github.com/orgs/flathub/repos?per_page=100&page={i}"
+
+    # Grab the JSON of the page
+    response = requests.get(url)
+    page = response.json()
+
+    # For each repo in a package, do filtering and clone or pull appropriately
+    for repo in page:
+        
+        repo_url = f"{repo['html_url']}.git"
+        repo_name = repo['name']
+        
+        # Value to check to see if inner loop is bad
+        inner_loop_detected = False
+        
+        # If repo is archived, skip
+        if repo['archived']:
+            print(repo_name + " is EOL, skipping...")
+            if os.path.isdir(f"flathub/{repo_name}"):
+                shutil.rmtree(f'flathub/{repo_name}')
+            continue
+        
+        # This application is broken and should be EOL and breaks running
+        if repo['name'] == "com.github.itext.i7j_rups":
+            if os.path.isdir(f"flathub/{repo_name}"):
+                shutil.rmtree(f'flathub/{repo_name}')
+            continue
+        
+        # This application is broken and breaks running
+        if repo['name'] == "io.github.markummitchell.Engauge_Digitizer":
+            if os.path.isdir(f"flathub/{repo_name}"):
+                shutil.rmtree(f'flathub/{repo_name}')
+            continue
+        
+        # If repo is not in *.*.* format, it's not a package
+        if not repo_name.count('.') >= 2:
+            print(repo_name + " is not a package, skipping...")
+            inner_loop_detected = True
+            continue
+            
+        # If a repo matches one of these patterns, it's not an application
+        # It may be icons or themes
+        for pattern in not_application_pattern:
+            if fnmatch.fnmatch(repo_name, pattern):
+                print(repo_name + " is not an application, skipping...")
+                inner_loop_detected = True
+                break
+        if inner_loop_detected:
+            continue
+        
+        # If folder exists then try pulling.
+        # If it doesn't then clone.
+        if os.path.isdir(f"flathub/{repo_name}"):
+            print(repo_name + " is already cloned, pulling...")
+            command = f"( cd flathub/{repo_name}/..; git pull )"
+            os.system(command)
+        else:
+            command = f"git clone --recursive {repo_url} flathub/{repo_name}"
+            os.system(command)
