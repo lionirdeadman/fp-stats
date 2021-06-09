@@ -83,7 +83,7 @@ for i in range(18):
         # If it doesn't then clone.
         if os.path.isdir(f"flathub/{repo_name}"):
             print(repo_name + " is already cloned, pulling...")
-            command = f"( cd flathub/{repo_name}/..; git pull )"
+            command = f"( cd flathub/{repo_name}; git pull )"
             os.system(command)
         else:
             command = f"git clone --recursive {repo_url} flathub/{repo_name}"
