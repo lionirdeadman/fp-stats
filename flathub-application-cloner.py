@@ -86,7 +86,7 @@ for i in range(18):
             command = f"( cd flathub/{repo_name}; git pull )"
             os.system(command)
             if os.path.isdir(f"flathub/{repo_name}/.gitmodules"):
-                command2 = f"(cd flathub/{repo_name}; git submodule update --init --recursive)"
+                command2 = f"( cd flathub/{repo_name}; git submodule update )"
                 os.system(command2)
         else:
             command = f"git clone --recursive {repo_url} flathub/{repo_name}"
