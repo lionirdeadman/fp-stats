@@ -82,8 +82,8 @@ pretty_runtime_information = json.dumps(sorted_runtime_information, indent=4)
 date_prefix = str(date.today()).replace("-","/")
 
 # Make sure folder is there to git clone later
-if not os.path.isdir(f'runtime_information/{date_prefix}'):
-   os.makedirs(f'runtime_information/{date_prefix}')
-with open(f'runtime_information/{date_prefix}/runtime_information.json', 'w') as stats:
+if not os.path.isdir(f'runtime_version_information/{date_prefix}'):
+   os.makedirs(f'runtime_version_information/{date_prefix}')
+with open(f'runtime_version_information/{date_prefix}/runtime_information.json', 'w') as stats:
     stats.write(pretty_runtime_information)
     stats.close()

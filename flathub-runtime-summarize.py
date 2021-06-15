@@ -23,13 +23,13 @@ from datetime import date, timedelta
 
 # Check if date for today is available, if not use yesterday.
 date_prefix = str(date.today()).replace("-","/")
-if Path(f'runtime_information/{date_prefix}/runtime_information.json').is_file():
+if Path(f'runtime_version_information/{date_prefix}/runtime_information.json').is_file():
     print("Here are today's runtime numbers!")
 else:
     date_prefix = str(date.today() - timedelta(days = 1)).replace("-","/")
     print("Here are yesterday's runtime numbers!")
 
-with open(f'runtime_information/{date_prefix}/runtime_information.json', 'r') as raw_stats:
+with open(f'runtime_version_information/{date_prefix}/runtime_information.json', 'r') as raw_stats:
     stats = json.load(raw_stats)
 
     # Make totals for percentages
