@@ -16,7 +16,7 @@
 # License along with this library. If not, see <https://www.gnu.org/licenses/>.
 #
 
-import os, sys, fnmatch, json, subprocess, collections
+import os, fnmatch, json, subprocess, collections
 from os.path import exists
 from distutils.version import LooseVersion
 from datetime import date
@@ -80,7 +80,10 @@ pretty_runtime_information = json.dumps(sorted_runtime_information, indent=4)
 
 # Save data to file based on date
 date_prefix = str(date.today()).replace("-","/")
-os.system(f'mkdir -p runtime_information/{date_prefix}')
+
+# Make sure folder is there to git clone later
+if not os.path.isdir(f'runtime_information/{date_prefix}'):
+   os.makedirs(f'runtime_information/{date_prefix}')
 with open(f'runtime_information/{date_prefix}/runtime_information.json', 'w') as stats:
     stats.write(pretty_runtime_information)
     stats.close()
