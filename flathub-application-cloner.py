@@ -16,11 +16,12 @@
 # License along with this library. If not, see <https://www.gnu.org/licenses/>.
 #
 
-import os, sys, fnmatch, json, shutil
+import os, fnmatch, json, shutil, subprocess
+from pathlib import Path
 import requests
     
 # Make sure folder is there to git clone later
-if not os.path.isdir('flathub'):
+if not Path('flathub').is_dir():
    os.makedirs('flathub')
 
 # Patterns are here to be easy to change in the future
@@ -47,7 +48,7 @@ for i in range(18):
         # If repo is archived, skip
         if repo['archived']:
             print(repo_name + " is EOL, skipping...")
-            if os.path.isdir(f"flathub/{repo_name}"):
+            if Path(f"flathub/{repo_name}").is_dir():
                 shutil.rmtree(f'flathub/{repo_name}')
             continue
         
@@ -69,13 +70,10 @@ for i in range(18):
         
         # If folder exists then try pulling.
         # If it doesn't then clone.
-        if os.path.isdir(f"flathub/{repo_name}"):
+        if Path(f"flathub/{repo_name}").is_dir():
             print(repo_name + " is already cloned, pulling...")
-            command = f"( cd flathub/{repo_name}; git pull )"
-            os.system(command)
-            if os.path.isdir(f"flathub/{repo_name}/.gitmodules"):
-                command2 = f"( cd flathub/{repo_name}; git submodule update )"
-                os.system(command2)
+            subprocess.run([f"( cd flathub/{repo_name}; git pull )"], shell=True)
+            if Path(f"flathub/{repo_name}/.gitmodules").is_file():
+                subprocess.run([f"( cd flathub/{repo_name}; git submodule update )"], shell=True)
         else:
-            command = f"git clone --recursive {repo_url} flathub/{repo_name}"
-            os.system(command)
+            subprocess.run([f"git clone --recursive {repo_url} flathub/{repo_name}"], shell=True)
