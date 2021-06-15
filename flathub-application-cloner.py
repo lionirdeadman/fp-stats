@@ -25,7 +25,7 @@ if not os.path.isdir('flathub'):
 
 # Patterns are here to be easy to change in the future
 package_pattern = ["*.*.*", "*.*.*.*", "*.*.*.*.*", "*.*.*.*.*"]
-not_application_pattern = ["org.kde.PlatformTheme.*", "org.gtk.Gtk3theme.*", "org.kde.KStyle.*", "org.freedesktop.Platform.Icontheme.*", "org.freedesktop.Platform.GL.nvidia"]
+not_application_pattern = ["org.kde.PlatformTheme.*", "org.gtk.Gtk3theme.*", "org.kde.KStyle.*", "org.freedesktop.Platform.*", "org.freedesktop.Sdk.*", "*.*.BaseApp", "*.*.*.BaseApp"]
 
 # Right now there are 18 pages with 100 repos per page
 for i in range(18):
@@ -47,18 +47,6 @@ for i in range(18):
         # If repo is archived, skip
         if repo['archived']:
             print(repo_name + " is EOL, skipping...")
-            if os.path.isdir(f"flathub/{repo_name}"):
-                shutil.rmtree(f'flathub/{repo_name}')
-            continue
-        
-        # This application is broken and should be EOL and breaks running
-        if repo['name'] == "com.github.itext.i7j_rups":
-            if os.path.isdir(f"flathub/{repo_name}"):
-                shutil.rmtree(f'flathub/{repo_name}')
-            continue
-        
-        # This application is broken and breaks running
-        if repo['name'] == "io.github.markummitchell.Engauge_Digitizer":
             if os.path.isdir(f"flathub/{repo_name}"):
                 shutil.rmtree(f'flathub/{repo_name}')
             continue
