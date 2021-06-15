@@ -42,6 +42,18 @@ for i in os.listdir('flathub/'):
     if exists(f'flathub/{i}/{i}.yaml'):
         extension = ".yaml"
 
+    # This application is broken and breaks running
+    if i == "io.github.markummitchell.Engauge_Digitizer":
+        continue
+
+    # If EOL (but not yet archived), don't count it
+    if exists(f'flathub/{i}/flathub.json'):
+        with open(f'flathub/{i}/flathub.json', 'r') as json_file:
+            flathub_json = json.load(json_file)
+            if flathub_json.get('end-of-life'):
+                print(f'{i} is not archived but EOL!')
+                continue
+
     # Run flatpak-builder to get a JSON output even if it's a YAML file
     raw_output = subprocess.run(['flatpak-builder', '--show-manifest', f'flathub/{i}/{i}{extension}'], check=True, universal_newlines=True, stdout=subprocess.PIPE)
     output = raw_output.stdout
