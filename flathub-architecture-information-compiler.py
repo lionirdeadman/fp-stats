@@ -107,8 +107,11 @@ for i in os.listdir('flathub/'):
     for arch in available_archs:
         runtime_information[arch].append(manifest['id'])
 
+# Sort it by version
+sorted_runtime_information = {key: order_dict(value) if isinstance(value, dict) else value for key, value in sorted(runtime_information.items())}
+
 # Prettify the JSON
-pretty_runtime_information = json.dumps(runtime_information, indent=4)
+pretty_runtime_information = json.dumps(sorted_runtime_information, indent=4)
 
 # Save data to file based on date
 date_prefix = str(date.today()).replace("-","/")
