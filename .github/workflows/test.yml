@@ -22,7 +22,7 @@ jobs:
         run: python3 flathub-application-cloner.py
       - name: Compile runtime version information
         run: python3 flathub-runtime-information-compiler.py
-      - name: Flathub clone
+      - name: Compile architecture information
         run: python3 flathub-architecture-information-compiler.py
       - name: Git push
         run: |
