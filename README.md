@@ -5,24 +5,17 @@
 `flathub-runtime-information-compiler.py`:This script uses all of those repositories and compiles a JSON file which categories the runtimes and subdivides 
 it into their versions which contain a list of all applications using that version.
 
-## runtime-information format
+`flathub-runtime-summarize.py`:This script uses the JSON produced by `flathub-runtime-information-compiler` to show a simple output of the number of applications
+using each runtime
 
-It's a simple JSON which ressembles this
-```
-{
-    "Freedesktop": {
-        "org.freedesktop.Platform//20.08": [
-            "tld.domain.app"
-        ]
-    }
-}
-```
+`flathub-architecture-information-compiler.py`:This script uses all of those repositories and compiles a JSON file which categories the applications by their architectures.
 
-# License
+`flathub-architecture-summarize.py`:This script uses the JSON produced by `flathub-architecture-information-compiler` to show a simple output of the number of applications
+using each architecture.
 
-## Data
-I believe that all data produced through these tools are free of copyright. There is no creativity being used here therefore there is no copyright. I waive all rights
-with regards to those if necessary.
+## Data produced by these tools
+
+They can be found [here](https://github.com/lionirdeadman/fp-stats/tree/data)
 
 ## Code
 I chose LGPLv2.1 because it seemed to me to be the most compatible *GPL license and I wanted to keep it free software so I didn't choose permissive. 
