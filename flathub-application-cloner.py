@@ -16,9 +16,13 @@
 # License along with this library. If not, see <https://www.gnu.org/licenses/>.
 #
 
-import os, fnmatch, json, shutil, subprocess
-from pathlib import Path
+import fnmatch
+import json
+import os
 import requests
+import shutil
+import subprocess
+from pathlib import Path
     
 # Make sure folder is there to git clone later
 if not Path('flathub').is_dir():

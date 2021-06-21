@@ -16,7 +16,11 @@
 # License along with this library. If not, see <https://www.gnu.org/licenses/>.
 #
 
-import os, fnmatch, json, subprocess, collections
+import collections
+import fnmatch
+import json
+import os
+import subprocess
 from os.path import exists
 from distutils.version import LooseVersion
 from datetime import date
