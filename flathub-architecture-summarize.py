@@ -36,4 +36,3 @@ with open(f'runtime_arch_information/{date_prefix}/runtime_information.json', 'r
     print()
     for arch in stats:
         print(f'{arch:<8} : {len(stats[arch]):<4}')
-
