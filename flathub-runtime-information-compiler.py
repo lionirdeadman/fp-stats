@@ -24,6 +24,7 @@ import subprocess
 from os.path import exists
 from distutils.version import LooseVersion
 from datetime import date
+from pathlib import Path
 
 # These are all the known runtimes, this is used to filter out extensions
 valid_runtimes = [
@@ -99,8 +100,9 @@ pretty_runtime_information = json.dumps(sorted_runtime_information, indent=4)
 date_prefix = str(date.today()).replace("-", "/")
 
 # Make sure folder is there to git clone later
-if not os.path.isdir(f"runtime_version_information/{date_prefix}"):
+if not Path(f"runtime_version_information/{date_prefix}").is_dir():
     os.makedirs(f"runtime_version_information/{date_prefix}")
+
 with open(f"runtime_version_information/{date_prefix}/runtime_information.json", "w") as stats:
     stats.write(pretty_runtime_information)
     stats.close()
