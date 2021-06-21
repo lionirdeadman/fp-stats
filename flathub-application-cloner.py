@@ -34,6 +34,8 @@ not_application_pattern = [
     "org.kde.PlatformTheme.*",
     "org.gtk.Gtk3theme.*",
     "org.kde.KStyle.*",
+    "org.kde.PlatformInputContexts.*",
+    "org.kde.WaylandDecoration.*",
     "org.freedesktop.Platform.*",
     "org.freedesktop.Sdk.*",
     "*.*.BaseApp",
