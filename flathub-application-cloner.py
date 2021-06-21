@@ -28,8 +28,19 @@ if not Path('flathub').is_dir():
 package_pattern = ["*.*.*", "*.*.*.*", "*.*.*.*.*", "*.*.*.*.*"]
 not_application_pattern = ["org.kde.PlatformTheme.*", "org.gtk.Gtk3theme.*", "org.kde.KStyle.*", "org.freedesktop.Platform.*", "org.freedesktop.Sdk.*", "*.*.BaseApp", "*.*.*.BaseApp"]
 
-# Right now there are 18 pages with 100 repos per page
-for i in range(18):
+# Ask info about flathub repo to make the number of pages
+response = requests.get("https://api.github.com/orgs/flathub")
+flathub_info = response.json()
+
+flathub_info['public_repos']
+
+if flathub_info['public_repos']%100 > 0:
+    nbPage = int((flathub_info['public_repos']/100)+1)
+else:
+    nbPage = int(flathub_info['public_repos']/100)
+
+# For every page of 100repos in Flathub
+for i in range(nbPage):
     url=f"https://api.github.com/orgs/flathub/repos?per_page=100&page={i}"
 
     # Grab the JSON of the page
@@ -76,4 +87,4 @@ for i in range(18):
             if Path(f"flathub/{repo_name}/.gitmodules").is_file():
                 subprocess.run([f"( cd flathub/{repo_name}; git submodule update )"], shell=True)
         else:
-            subprocess.run([f"git clone --recursive {repo_url} flathub/{repo_name}"], shell=True)
+            subprocess.run([f"git clone --recursive --depth=1 {repo_url} flathub/{repo_name}"], shell=True)
