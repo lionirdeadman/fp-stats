@@ -36,8 +36,6 @@ not_application_pattern = ["org.kde.PlatformTheme.*", "org.gtk.Gtk3theme.*", "or
 response = requests.get("https://api.github.com/orgs/flathub")
 flathub_info = response.json()
 
-flathub_info['public_repos']
-
 if flathub_info['public_repos']%100 > 0:
     nbPage = int((flathub_info['public_repos']/100)+1)
 else:
