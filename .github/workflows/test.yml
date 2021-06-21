@@ -23,6 +23,7 @@ jobs:
           python3 flathub-application-cloner.py
           python3 flathub-architecture-information-compiler.py
           python3 flathub-runtime-information-compiler.py
+          ls -R
       - name: Git push
         run: |
           git config user.name github-actions
