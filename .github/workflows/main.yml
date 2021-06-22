@@ -37,4 +37,5 @@ jobs:
           git config user.email github-actions@github.com
           git add runtime_arch_information/
           git add runtime_version_information/
+          git add summaries/
           if ! git diff --staged --quiet; then git commit -m "Data bump" && git push; fi
