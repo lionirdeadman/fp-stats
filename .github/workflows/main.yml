@@ -1,5 +1,6 @@
 name: Stats compiler
 on:
+  workflow_dispatch:
   schedule:
     - cron:  '0 5,11,17,23 * * *'
 jobs:
@@ -26,6 +27,10 @@ jobs:
         run: python3 flathub-runtime-information-compiler.py
       - name: Compile architecture information
         run: python3 flathub-architecture-information-compiler.py
+      - name: Compile runtime version summaries
+        run: python3 flathub-runtime-information-summarize.py
+      - name: Compile architecture summaries
+        run: python3 flathub-architecture-information-summarize.py
       - name: Git push
         run: |
           git config user.name github-actions
