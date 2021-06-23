@@ -2,7 +2,7 @@ name: Stats compiler
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 5,11,17,23 * * *'
+    - cron:  '0 * * * *'
 jobs:
   stats-compiler:
     runs-on: ubuntu-latest
