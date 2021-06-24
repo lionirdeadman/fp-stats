@@ -257,6 +257,7 @@
             "org.openshot.OpenShot",
             "org.gottcode.Connectagram",
             "io.github.muse_sequencer.Muse",
+            "org.kiwix.desktop",
             "org.speedcrunch.SpeedCrunch",
             "org.equeim.Tremotesf",
             "org.mapeditor.Tiled",
@@ -336,7 +337,6 @@
             "org.rolisteam.rolisteam",
             "de.ifw_dresden.nagstamon",
             "net.mediaarea.QCTools",
-            "org.kiwix.desktop",
             "io.github.janbar.noson",
             "io.liri.Text",
             "org.eu.encom.spectral"
