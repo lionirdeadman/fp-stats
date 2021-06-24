@@ -103,7 +103,7 @@
             },
             "GNOME": {
                 "org.gnome.Sdk//40": 4,
-                "org.gnome.Platform//40": 226,
+                "org.gnome.Platform//40": 225,
                 "org.gnome.Platform//3.38": 133,
                 "org.gnome.Sdk//3.38": 5,
                 "org.gnome.Platform//3.36": 38,
