@@ -823,7 +823,8 @@
             "io.github.lainsce.Khronos",
             "org.gnome.Builder",
             "io.github.lainsce.DotMatrix",
-            "io.github.lainsce.Notejot"
+            "io.github.lainsce.Notejot",
+            "org.geany.Geany"
         ],
         "org.gnome.Platform//40": [
             "in.bharatkalluri.shortcircuit",
@@ -1192,7 +1193,6 @@
             "io.github.lainsce.Quilter",
             "org.scintilla.SciTE",
             "org.gnome.Devhelp",
-            "org.geany.Geany",
             "com.github.themix_project.Oomox"
         ],
         "org.gnome.Platform//3.36": [
