@@ -92,7 +92,6 @@
             "net.purrdata.PurrData",
             "com.itextpdf.RUPS",
             "com.poweriso.PowerISO",
-            "org.zulip.Zulip",
             "com.shatteredpixel.shatteredpixeldungeon",
             "cc.arduino.arduinoide",
             "io.github.dfandrich.gpscorrelate",
@@ -515,7 +514,6 @@
             "org.electrum.electrum",
             "com.interversehq.qView",
             "net.kuribo64.melonDS",
-            "org.openshot.OpenShot",
             "de.klayout.KLayout",
             "io.github.maurycyliebner.enve",
             "net.sourceforge.scidavis",
@@ -813,9 +811,6 @@
         ],
         "org.kde.Platform//5.11": [
             "com.notepadqq.Notepadqq"
-        ],
-        "org.kde.Platform//5.9": [
-            "com.remarkable.reMarkable"
         ]
     },
     "GNOME": {
@@ -1082,7 +1077,6 @@
             "org.gnome.Podcasts",
             "com.dropbox.Client",
             "com.github.junrrein.PDFSlicer",
-            "com.github.alexhuntley.Plots",
             "com.github.utsushi.Utsushi",
             "org.gnome.Robots",
             "io.github.quodlibet.ExFalso",
