@@ -1232,7 +1232,8 @@
             "org.gnome.OCRFeeder",
             "com.github.donadigo.appeditor",
             "com.gitlab.kendellfab.restscope",
-            "org.eclipse.iot.fourdiac.Ide"
+            "org.eclipse.iot.fourdiac.Ide",
+            "org.gnome.Documents"
         ],
         "org.gnome.Sdk//3.36": [
             "com.github.mikacousin.olc"
