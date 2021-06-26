@@ -441,6 +441,7 @@
             "com.synology.SynologyDrive",
             "com.synology.CloudStationBackup",
             "org.aliflang.lang",
+            "com.sublimetext.three",
             "io.brackets.Brackets",
             "com.okta.developer.CLI"
         ],
