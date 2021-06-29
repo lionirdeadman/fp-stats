@@ -485,6 +485,7 @@
             "org.kde.kturtle",
             "org.kde.kontact",
             "org.cloudcompare.CloudCompare",
+            "com.kristianduske.TrenchBroom",
             "com.github.buddhi1980.mandelbulber2",
             "io.bit3.ThreemaQT",
             "org.kde.kbounce",
@@ -796,7 +797,6 @@
             "com.gitlab.librebob.Athenaeum"
         ],
         "org.kde.Platform//5.12": [
-            "com.kristianduske.TrenchBroom",
             "net.mediaarea.MediaConch",
             "io.github.janbar.noson",
             "org.rolisteam.rolisteam",
