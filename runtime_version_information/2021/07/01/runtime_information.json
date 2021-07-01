@@ -690,6 +690,7 @@
             "io.trustable.stpadocumentationtool",
             "org.kde.skrooge",
             "org.DolphinEmu.dolphin-emu",
+            "net.sourceforge.qtpfsgui.LuminanceHDR",
             "com.rosegardenmusic.rosegarden",
             "io.gitlab.evtest_qt.evtest_qt",
             "org.kde.pix",
@@ -782,7 +783,6 @@
             "org.pyzo.pyzo",
             "de.ifw_dresden.nagstamon",
             "org.eu.encom.spectral",
-            "net.sourceforge.qtpfsgui.LuminanceHDR",
             "org.vranki.spectral",
             "io.github.janbar.noson"
         ],
