@@ -319,9 +319,9 @@
                 "org.freedesktop.Platform//18.08": 21
             },
             "GNOME": {
-                "org.gnome.Platform//40": 234,
+                "org.gnome.Platform//40": 235,
                 "org.gnome.Sdk//40": 5,
-                "org.gnome.Platform//3.38": 126,
+                "org.gnome.Platform//3.38": 125,
                 "org.gnome.Sdk//3.38": 4,
                 "org.gnome.Platform//3.36": 38,
                 "org.gnome.Sdk//3.36": 1,
