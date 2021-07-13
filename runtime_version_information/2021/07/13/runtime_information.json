@@ -1151,6 +1151,7 @@
             "com.jetbrains.Rider",
             "com.chez.GrafX2",
             "org.flathub.flatpak-external-data-checker",
+            "com.synology.SynologyDrive",
             "org.gnu.emacs",
             "com.jetbrains.IntelliJ-IDEA-Community",
             "com.jetbrains.PyCharm-Professional",
@@ -1236,7 +1237,6 @@
         "org.freedesktop.Sdk//19.08": [
             "com.okta.developer.CLI",
             "org.aliflang.lang",
-            "com.synology.SynologyDrive",
             "com.sublimetext.three",
             "io.brackets.Brackets",
             "com.synology.CloudStationBackup"
