@@ -1047,6 +1047,7 @@
             "org.js.nuclear.Nuclear",
             "net.sourceforge.fretsonfire",
             "com.github.ryanakca.slingshot",
+            "com.teeworlds.Teeworlds",
             "com.katawa_shoujo.KatawaShoujo",
             "org.davmail.DavMail",
             "org.freeorion.FreeOrion",
@@ -1257,7 +1258,6 @@
             "com.retrodev.blastem",
             "com.xnview.XnRetro",
             "com.abagames.noiz2sa",
-            "com.teeworlds.Teeworlds",
             "org.freedesktop.GlxInfo",
             "net.sourceforge.Klavaro",
             "com.openwall.John"
