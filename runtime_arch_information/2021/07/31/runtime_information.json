@@ -521,6 +521,7 @@
         "org.kde.killbots",
         "io.openrct2.OpenRCT2",
         "org.sugarlabs.StoryActivity",
+        "org.zulip.Zulip",
         "org.gottcode.FocusWriter",
         "de.klayout.KLayout",
         "org.kde.marble",
