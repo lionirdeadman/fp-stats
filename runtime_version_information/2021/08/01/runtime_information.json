@@ -532,6 +532,7 @@
             "net.xm1math.Texmaker",
             "com.flashforge.FlashPrint",
             "org.raspberrypi.rpi-imager",
+            "com.gitlab.librebob.Athenaeum",
             "org.kde.kpat",
             "org.kde.kjumpingcube",
             "com.github.rssguard",
@@ -790,9 +791,6 @@
             "org.eyecreate.vehiclevoyage",
             "io.gitlab.o20.word",
             "io.github.technic.e2designer"
-        ],
-        "org.kde.Platform//5.13": [
-            "com.gitlab.librebob.Athenaeum"
         ],
         "org.kde.Platform//5.12": [
             "de.ifw_dresden.nagstamon",
