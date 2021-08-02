@@ -480,6 +480,7 @@
             "com.codemouse92.timecard",
             "net.codeindustry.MasterPDFEditor",
             "com.ulduzsoft.Birdtray",
+            "org.kde.dolphin",
             "io.github.muse_sequencer.Muse",
             "net.sourceforge.dmidiplayer",
             "xyz.z3ntu.razergenie",
@@ -677,7 +678,6 @@
             "org.shotcut.Shotcut",
             "net.rpdev.OpenTodoList",
             "org.cubocore.CoreInfo",
-            "org.kde.kdenlive",
             "org.kiwix.desktop",
             "com.wiz.Note",
             "io.github.chris2511.xca",
@@ -1241,7 +1241,6 @@
             "com.github.bcedu.valasimplehttpserver",
             "org.gnome.Eolie",
             "org.caione.GScope",
-            "com.github.JannikHv.Gydl",
             "org.laptop.TurtleArtActivity",
             "com.vinszent.GnomeTwitch"
         ],
