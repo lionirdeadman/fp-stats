@@ -420,6 +420,7 @@
             "fi.mooc.tmc.tmc-cli-rust",
             "com.greyrook.siptop",
             "com.jaquadro.NBTExplorer",
+            "com.avocode.Avocode",
             "com.irccloud.desktop",
             "com.varnamproject.Varnam",
             "com.albiononline.AlbionOnline",
@@ -709,6 +710,7 @@
             "io.gitlab.evtest_qt.evtest_qt",
             "org.groestlcoin.electrum-grs",
             "org.kde.okular",
+            "org.bunkus.mkvtoolnix-gui",
             "org.leocad.LeoCAD",
             "org.gottcode.Peg-E",
             "net.sourceforge.VMPK",
@@ -1059,6 +1061,7 @@
         "org.gnome.Sdk//40": [
             "io.github.lainsce.Khronos",
             "org.geany.Geany",
+            "org.gnome.Builder",
             "io.github.lainsce.Notejot",
             "io.github.lainsce.DotMatrix"
         ],
