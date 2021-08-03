@@ -10,6 +10,7 @@
             "jp.yvt.OpenSpades",
             "radio.k0swe.Kel_Agent",
             "com.github.nihui.waifu2x-ncnn-vulkan",
+            "im.riot.Riot",
             "org.kde.krita",
             "org.ardour.Ardour",
             "org.standardnotes.standardnotes",
@@ -537,6 +538,7 @@
             "com.github.rssguard",
             "com.github.iwalton3.jellyfin-media-player",
             "com.ozmartians.VidCutter",
+            "org.kde.kdiamond",
             "org.qgis.qgis",
             "org.olivevideoeditor.Olive",
             "org.kde.kxstitch",
@@ -608,6 +610,7 @@
             "org.kde.konquest",
             "org.kde.ksquares",
             "com.sourcepole.kadas",
+            "com.stremio.Stremio",
             "org.kde.ktorrent",
             "net.sf.nootka",
             "io.github.peazip.PeaZip",
@@ -746,6 +749,7 @@
             "org.kde.kig",
             "org.kde.kontrast",
             "org.cubocore.CoreRenamer",
+            "org.goldendict.GoldenDict",
             "com.toggl.TogglDesktop",
             "com.rosegardenmusic.rosegarden",
             "org.videolan.VLC",
@@ -1051,7 +1055,8 @@
             "com.belmoussaoui.ReadItLater",
             "fr.free.Homebank",
             "net.bartkessels.getit",
-            "org.gnome.OfficeRunner"
+            "org.gnome.OfficeRunner",
+            "org.sonic3air.Sonic3AIR"
         ],
         "org.gnome.Sdk//40": [
             "io.github.lainsce.Khronos",
@@ -1225,7 +1230,8 @@
             "com.github.mdh34.hackup",
             "com.stepmania.StepMania",
             "com.github.philip_scott.notes-up",
-            "org.gnome.Taquin"
+            "org.gnome.Taquin",
+            "org.gnome.gbrainy"
         ],
         "org.gnome.Sdk//3.36": [
             "com.github.mikacousin.olc"
