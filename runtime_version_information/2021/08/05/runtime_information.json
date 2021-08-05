@@ -1032,6 +1032,7 @@
             "org.learningequality.Kolibri",
             "org.sugarlabs.AbacusActivity",
             "org.audacityteam.Audacity",
+            "org.gnome.Taquin",
             "org.sugarlabs.ReadETexts",
             "im.bernard.Nostalgia",
             "org.gnome.dfeet",
@@ -1230,7 +1231,6 @@
             "com.github.mdh34.hackup",
             "com.stepmania.StepMania",
             "com.github.philip_scott.notes-up",
-            "org.gnome.Taquin",
             "org.gnome.gbrainy"
         ],
         "org.gnome.Sdk//3.36": [
