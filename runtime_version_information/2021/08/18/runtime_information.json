@@ -937,6 +937,7 @@
             "org.gnome.Boxes",
             "org.gnome.GTG",
             "org.gnome.FontManager",
+            "com.st.STM32CubeIDE",
             "com.github.johnfactotum.Foliate",
             "org.gnome.Calculator",
             "me.leucoso.Grock",
