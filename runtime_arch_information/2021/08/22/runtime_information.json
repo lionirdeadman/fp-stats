@@ -428,6 +428,7 @@
         "org.kde.index",
         "org.cubocore.CoreArchiver",
         "io.jamulus.Jamulus",
+        "net.sourceforge.scidavis",
         "de.bund.ausweisapp.ausweisapp2",
         "io.github.JaGoLi.ytdl_gui",
         "org.vim.Vim",
