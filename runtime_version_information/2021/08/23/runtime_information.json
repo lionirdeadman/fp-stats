@@ -815,6 +815,7 @@
     },
     "GNOME": {
         "org.gnome.Platform//40": [
+            "de.manuel_kehl.go-for-it",
             "org.gnome.Weather",
             "org.gnome.eog",
             "io.github.kaschpal.timetable",
@@ -1069,8 +1070,13 @@
             "io.github.lainsce.Notejot",
             "io.github.lainsce.DotMatrix"
         ],
+        "org.gnome.Sdk//3.38": [
+            "com.github.themix_project.Oomox",
+            "io.github.lainsce.Quilter",
+            "org.scintilla.SciTE",
+            "org.gnome.Devhelp"
+        ],
         "org.gnome.Platform//3.38": [
-            "de.manuel_kehl.go-for-it",
             "com.github.junrrein.PDFSlicer",
             "com.github.bleakgrey.tootle",
             "io.otsaloma.gaupol",
@@ -1189,12 +1195,6 @@
             "com.leinardi.gkraken",
             "org.viking.Viking",
             "com.github.xournalpp.xournalpp"
-        ],
-        "org.gnome.Sdk//3.38": [
-            "com.github.themix_project.Oomox",
-            "io.github.lainsce.Quilter",
-            "org.scintilla.SciTE",
-            "org.gnome.Devhelp"
         ],
         "org.gnome.Platform//3.36": [
             "net.sourceforge.Teo",
