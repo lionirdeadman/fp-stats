@@ -953,6 +953,7 @@
             "org.gnome.Boxes",
             "org.gnome.GTG",
             "org.gnome.FontManager",
+            "org.gnome.Devhelp",
             "com.st.STM32CubeIDE",
             "com.github.johnfactotum.Foliate",
             "org.gnome.Calculator",
@@ -1091,8 +1092,7 @@
         "org.gnome.Sdk//3.38": [
             "com.github.themix_project.Oomox",
             "io.github.lainsce.Quilter",
-            "org.scintilla.SciTE",
-            "org.gnome.Devhelp"
+            "org.scintilla.SciTE"
         ],
         "org.gnome.Platform//3.38": [
             "com.github.junrrein.PDFSlicer",
