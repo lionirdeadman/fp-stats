@@ -1,11 +1,12 @@
 {
     "Freedesktop": {
+        "org.freedesktop.Sdk//21.08": [
+            "com.jetbrains.PhpStorm",
+            "org.flatpak.Builder"
+        ],
         "org.freedesktop.Platform//21.08": [
             "com.github.tmewett.BrogueCE",
             "com.valvesoftware.Steam"
-        ],
-        "org.freedesktop.Sdk//21.08": [
-            "org.flatpak.Builder"
         ],
         "org.freedesktop.Platform//20.08": [
             "net.sf.fuse_emulator",
@@ -348,7 +349,6 @@
             "com.github.ransome1.sleek"
         ],
         "org.freedesktop.Sdk//20.08": [
-            "com.jetbrains.PhpStorm",
             "com.unity.UnityHub",
             "com.jetbrains.IntelliJ-IDEA-Community",
             "com.visualstudio.code",
