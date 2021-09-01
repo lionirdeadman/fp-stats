@@ -1,5 +1,8 @@
 {
     "Freedesktop": {
+        "org.freedesktop.Sdk//21.08": [
+            "org.flatpak.Builder"
+        ],
         "org.freedesktop.Platform//20.08": [
             "net.sf.fuse_emulator",
             "com.github.marktext.marktext",
@@ -358,7 +361,6 @@
             "com.visualstudio.code-oss",
             "com.jetbrains.WebStorm",
             "io.atom.Atom",
-            "org.flatpak.Builder",
             "com.jetbrains.IntelliJ-IDEA-Ultimate",
             "fr.natron.Natron",
             "com.vscodium.codium",
