@@ -1,5 +1,9 @@
 {
     "Freedesktop": {
+        "org.freedesktop.Platform//21.08": [
+            "com.github.tmewett.BrogueCE",
+            "com.valvesoftware.Steam"
+        ],
         "org.freedesktop.Sdk//21.08": [
             "org.flatpak.Builder"
         ],
@@ -54,7 +58,6 @@
             "fyi.zoey.TeX-Match",
             "io.github.kotatogram",
             "net.runelite.RuneLite",
-            "com.github.tmewett.BrogueCE",
             "com.gitlab.coringao.cavestory-nx",
             "io.github.arunsivaramanneo.GPUViewer",
             "moe.tundra.Tundra",
@@ -203,7 +206,6 @@
             "io.github.ezQuake",
             "io.github.endless_sky.endless_sky",
             "com.valvesoftware.SteamLink",
-            "com.valvesoftware.Steam",
             "org.gnome.Tau",
             "io.gitlab.construo.construo",
             "net.sourceforge.GrandOrgue",
