@@ -6,7 +6,8 @@
         ],
         "org.freedesktop.Platform//21.08": [
             "com.github.tmewett.BrogueCE",
-            "com.valvesoftware.Steam"
+            "com.valvesoftware.Steam",
+            "com.etlegacy.ETLegacy"
         ],
         "org.freedesktop.Platform//20.08": [
             "net.sf.fuse_emulator",
@@ -334,7 +335,6 @@
             "com.fightcade.Fightcade",
             "org.claws_mail.Claws-Mail",
             "io.github.dfandrich.gpscorrelate",
-            "com.etlegacy.ETLegacy",
             "net.sourceforge.TuxFootball",
             "com.mojang.Minecraft",
             "net.stabyourself.nottetris2",

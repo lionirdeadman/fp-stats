@@ -2204,8 +2204,8 @@
         "1630540800.0": {
             "Freedesktop": {
                 "org.freedesktop.Sdk//21.08": 2,
-                "org.freedesktop.Platform//21.08": 2,
-                "org.freedesktop.Platform//20.08": 338,
+                "org.freedesktop.Platform//21.08": 3,
+                "org.freedesktop.Platform//20.08": 337,
                 "org.freedesktop.Sdk//20.08": 25,
                 "org.freedesktop.Platform//19.08": 66,
                 "org.freedesktop.Sdk//19.08": 5,
