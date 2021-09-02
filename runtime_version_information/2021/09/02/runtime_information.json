@@ -801,7 +801,9 @@
             "com.github.tmewett.BrogueCE",
             "org.zdoom.GZDoom",
             "com.etlegacy.ETLegacy",
-            "com.github.iortcw.iortcw"
+            "com.github.iortcw.iortcw",
+            "io.github.ezQuake",
+            "org.yamagi.YamagiQ2"
         ],
         "org.freedesktop.Sdk//21.08": [
             "org.flatpak.Builder",
@@ -1070,7 +1072,6 @@
             "com.skype.Client",
             "org.nanuc.Axolotl",
             "org.openttd.OpenTTD",
-            "io.github.ezQuake",
             "org.geogebra.GeoGebra",
             "com.wire.WireDesktop",
             "io.github.torbuntu.Leikr",
@@ -1091,7 +1092,6 @@
             "org.verapdf.veraPDF",
             "com.endlessnetwork.whitehouse",
             "com.github.Eloston.UngoogledChromium",
-            "org.yamagi.YamagiQ2",
             "org.gnome.HexGL",
             "de.blobbyvolley.BlobbyVolley2",
             "org.kicad.KiCad",
