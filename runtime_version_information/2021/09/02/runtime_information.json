@@ -806,7 +806,9 @@
             "org.yamagi.YamagiQ2"
         ],
         "org.freedesktop.Sdk//21.08": [
+            "com.jetbrains.Rider",
             "org.flatpak.Builder",
+            "com.jetbrains.PyCharm-Community",
             "com.jetbrains.PhpStorm"
         ],
         "org.freedesktop.Platform//20.08": [
@@ -1156,13 +1158,11 @@
             "com.google.AndroidStudio",
             "com.chez.GrafX2",
             "com.jetbrains.GoLand",
-            "com.jetbrains.Rider",
             "com.jetbrains.WebStorm",
             "com.visualstudio.code",
             "com.sublimemerge.App",
             "io.neovim.nvim",
             "org.apache.netbeans",
-            "com.jetbrains.PyCharm-Community",
             "com.jetbrains.CLion",
             "org.codeblocks.codeblocks",
             "com.jetbrains.IntelliJ-IDEA-Community",
