@@ -537,6 +537,7 @@
             "org.gnome.Keysign",
             "org.gnome.Dictionary",
             "org.gnome.design.AppIconPreview",
+            "org.gnome.Geary",
             "org.sugarlabs.FotoToon",
             "org.gnome.design.SymbolicPreview",
             "com.github.bleakgrey.tootle",
