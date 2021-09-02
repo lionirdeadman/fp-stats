@@ -802,6 +802,7 @@
             "com.github.tmewett.BrogueCE",
             "org.zdoom.GZDoom",
             "com.etlegacy.ETLegacy",
+            "com.realm667.Wolfenstein_Blade_of_Agony",
             "com.github.iortcw.iortcw",
             "io.github.ezQuake",
             "org.yamagi.YamagiQ2"
@@ -1041,7 +1042,6 @@
             "com.github.ransome1.sleek",
             "com.discordapp.DiscordCanary",
             "com.parsecgaming.parsec",
-            "com.realm667.Wolfenstein_Blade_of_Agony",
             "ca._0ldsk00l.Nestopia",
             "net.mediaarea.MediaInfo",
             "net.sourceforge.GrandOrgue",
