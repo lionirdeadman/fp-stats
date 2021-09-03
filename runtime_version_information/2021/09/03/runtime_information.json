@@ -806,7 +806,8 @@
             "com.realm667.Wolfenstein_Blade_of_Agony",
             "com.github.iortcw.iortcw",
             "io.github.ezQuake",
-            "org.yamagi.YamagiQ2"
+            "org.yamagi.YamagiQ2",
+            "org.pulseaudio.pavucontrol"
         ],
         "org.freedesktop.Sdk//21.08": [
             "com.jetbrains.Rider",
@@ -1108,7 +1109,6 @@
             "com.todoist.Todoist",
             "com.giadamusic.Giada",
             "life.bolls.bolls",
-            "org.pulseaudio.pavucontrol",
             "net.displaycal.DisplayCAL",
             "com.elsevier.MendeleyDesktop",
             "com.abagames.rRootage",
