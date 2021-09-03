@@ -1370,7 +1370,6 @@
         "org.lamport.tla.toolbox",
         "com.github.qarmin.czkawka",
         "io.github.endless_sky.endless_sky",
-        "com.calibre_ebook.calibre",
         "com.makemkv.MakeMKV",
         "io.github.betaflight.BetaflightConfigurator",
         "com.visualstudio.code-oss",
