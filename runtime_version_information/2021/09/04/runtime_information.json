@@ -804,6 +804,7 @@
             "com.github.tmewett.BrogueCE",
             "org.zdoom.GZDoom",
             "io.github.freedoom.FreeDM",
+            "org.flycast.Flycast",
             "com.etlegacy.ETLegacy",
             "uk.co.powdertoy.tpt",
             "com.realm667.Wolfenstein_Blade_of_Agony",
@@ -811,6 +812,7 @@
             "com.github.iortcw.iortcw",
             "io.github.ezQuake",
             "org.yamagi.YamagiQ2",
+            "org.kicad.KiCad",
             "org.pulseaudio.pavucontrol"
         ],
         "org.freedesktop.Sdk//21.08": [
@@ -1031,7 +1033,6 @@
             "org.deluge_torrent.deluge",
             "com.github.phase1geo.minder",
             "org.jitsi.jitsi-meet",
-            "org.flycast.Flycast",
             "com.github.reduz.ChibiTracker",
             "com.github.optyfr.JRomManager",
             "no.mifi.losslesscut",
@@ -1099,7 +1100,6 @@
             "com.github.Eloston.UngoogledChromium",
             "org.gnome.HexGL",
             "de.blobbyvolley.BlobbyVolley2",
-            "org.kicad.KiCad",
             "org.seul.pingus",
             "io.lbry.lbry-app",
             "com.grangerhub.Tremulous",
