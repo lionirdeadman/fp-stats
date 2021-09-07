@@ -829,11 +829,13 @@
             "org.pulseaudio.pavucontrol"
         ],
         "org.freedesktop.Sdk//21.08": [
+            "com.jetbrains.IntelliJ-IDEA-Ultimate",
             "com.chez.GrafX2",
             "com.jetbrains.Rider",
             "org.flatpak.Builder",
             "com.jetbrains.PyCharm-Community",
-            "com.jetbrains.PhpStorm"
+            "com.jetbrains.PhpStorm",
+            "com.jetbrains.IntelliJ-IDEA-Community"
         ],
         "org.freedesktop.Platform//20.08": [
             "com.qq.QQmusic",
@@ -1153,7 +1155,6 @@
             "com.unity.UnityHub",
             "org.flathub.flatpak-external-data-checker",
             "com.visualstudio.code.insiders",
-            "com.jetbrains.IntelliJ-IDEA-Ultimate",
             "com.visualstudio.code-oss",
             "app.midterm.MidtermDesktop",
             "io.atom.Atom",
@@ -1167,7 +1168,6 @@
             "org.apache.netbeans",
             "com.jetbrains.CLion",
             "org.codeblocks.codeblocks",
-            "com.jetbrains.IntelliJ-IDEA-Community",
             "fr.natron.Natron",
             "com.synology.SynologyDrive"
         ],
