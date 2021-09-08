@@ -827,7 +827,8 @@
             "io.github.ezQuake",
             "org.yamagi.YamagiQ2",
             "org.kicad.KiCad",
-            "org.pulseaudio.pavucontrol"
+            "org.pulseaudio.pavucontrol",
+            "com.github.unrud.RemoteTouchpad"
         ],
         "org.freedesktop.Sdk//21.08": [
             "com.jetbrains.IntelliJ-IDEA-Ultimate",
@@ -1139,7 +1140,6 @@
             "com.github.AmatCoder.mednaffe",
             "org.freeplane.App",
             "org.signal.Signal",
-            "com.github.unrud.RemoteTouchpad",
             "com.vagueentertainment.Framed",
             "com.pypyrev.linuxdcpp",
             "com.endlessnetwork.frogsquash",
