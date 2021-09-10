@@ -796,6 +796,8 @@
     "Freedesktop": {
         "org.freedesktop.Platform//21.08": [
             "ca.littlesvr.asunder",
+            "com.endlessnetwork.MidnightmareTeddy",
+            "com.endlessnetwork.tankwarriors",
             "com.endlessnetwork.passage",
             "com.valvesoftware.Steam",
             "com.calibre_ebook.calibre",
@@ -824,6 +826,7 @@
             "io.github.freedoom.Phase1",
             "com.github.iortcw.iortcw",
             "ar.com.tuxguitar.TuxGuitar",
+            "com.endlessnetwork.fablemaker",
             "com.github.libresprite.LibreSprite",
             "org.telegram.desktop",
             "io.github.ezQuake",
@@ -833,7 +836,8 @@
             "com.endlessnetwork.aqueducts",
             "org.pulseaudio.pavucontrol",
             "com.endlessnetwork.missilemath",
-            "com.github.unrud.RemoteTouchpad"
+            "com.github.unrud.RemoteTouchpad",
+            "com.endlessnetwork.frogsquash"
         ],
         "org.freedesktop.Sdk//21.08": [
             "com.jetbrains.IntelliJ-IDEA-Ultimate",
@@ -863,7 +867,6 @@
             "com.sigmyne.crush",
             "io.kinvolk.Headlamp",
             "org.wesnoth.Wesnoth",
-            "com.endlessnetwork.MidnightmareTeddy",
             "com.mojang.Minecraft",
             "io.github.igaldino.CoyoteTM",
             "org.btchd.btchd-qt",
@@ -878,7 +881,6 @@
             "com.eduke32.EDuke32",
             "org.squeakland.Etoys",
             "moe.tundra.Tundra",
-            "com.endlessnetwork.tankwarriors",
             "com.github.emmanueltouzery.cigale",
             "com.getferdi.Ferdi",
             "cc.arduino.arduinoide",
@@ -1077,7 +1079,6 @@
             "org.hikounomizu.HikouNoMizu",
             "eu.planete_kraus.Tarot",
             "net.tedomum.CapBattleship",
-            "com.endlessnetwork.fablemaker",
             "com.katawa_shoujo.KatawaShoujo",
             "com.jgraph.drawio.desktop",
             "org.raceintospace.Raceintospace",
@@ -1142,7 +1143,6 @@
             "org.signal.Signal",
             "com.vagueentertainment.Framed",
             "com.pypyrev.linuxdcpp",
-            "com.endlessnetwork.frogsquash",
             "net.agalwood.Motrix",
             "edu.mit.Scratch",
             "chat.schildi.desktop",
