@@ -842,6 +842,7 @@
             "com.endlessnetwork.frogsquash"
         ],
         "org.freedesktop.Sdk//21.08": [
+            "org.flathub.flatpak-external-data-checker",
             "com.jetbrains.IntelliJ-IDEA-Ultimate",
             "com.chez.GrafX2",
             "com.jetbrains.Rider",
@@ -1153,7 +1154,6 @@
             "com.vscodium.codium",
             "org.gnu.emacs",
             "com.unity.UnityHub",
-            "org.flathub.flatpak-external-data-checker",
             "com.visualstudio.code.insiders",
             "com.visualstudio.code-oss",
             "app.midterm.MidtermDesktop",
