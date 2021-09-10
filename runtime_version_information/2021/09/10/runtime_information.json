@@ -837,6 +837,7 @@
             "com.endlessnetwork.aqueducts",
             "org.pulseaudio.pavucontrol",
             "com.endlessnetwork.missilemath",
+            "io.openrct2.OpenRCT2",
             "com.github.unrud.RemoteTouchpad",
             "com.endlessnetwork.frogsquash"
         ],
@@ -1132,7 +1133,6 @@
             "org.chromium.Chromium",
             "org.phoenicis.playonlinux",
             "com.github.skullernet.q2pro",
-            "io.openrct2.OpenRCT2",
             "net.biniou.LeBiniou",
             "org.quetoo.Quetoo",
             "com.whitemagicsoftware.kmcaster",
