@@ -639,6 +639,7 @@
             "org.geany.Geany",
             "io.github.lainsce.Notejot",
             "io.github.lainsce.Khronos",
+            "io.github.lainsce.Quilter",
             "io.github.lainsce.DotMatrix"
         ],
         "org.gnome.Platform//3.38": [
@@ -726,8 +727,7 @@
         ],
         "org.gnome.Sdk//3.38": [
             "org.scintilla.SciTE",
-            "com.github.themix_project.Oomox",
-            "io.github.lainsce.Quilter"
+            "com.github.themix_project.Oomox"
         ],
         "org.gnome.Platform//3.36": [
             "org.small_tech.Gnomit",
@@ -799,6 +799,7 @@
             "com.endlessnetwork.MidnightmareTeddy",
             "com.endlessnetwork.tankwarriors",
             "com.endlessnetwork.passage",
+            "org.ppsspp.PPSSPP",
             "com.valvesoftware.Steam",
             "com.calibre_ebook.calibre",
             "org.nmap.Zenmap",
@@ -893,7 +894,6 @@
             "com.github.nihui.waifu2x-ncnn-vulkan",
             "org.tuxfamily.XMoto",
             "io.github.RodZill4.Material-Maker",
-            "org.ppsspp.PPSSPP",
             "in.p1x.TanksOfFreedom",
             "org.taisei_project.Taisei",
             "org.ardour.Ardour",
