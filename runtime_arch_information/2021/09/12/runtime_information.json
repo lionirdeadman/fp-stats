@@ -620,6 +620,7 @@
         "org.gnome.design.AppIconPreview",
         "net.sourceforge.squirrel_sql",
         "org.gnome.Geary",
+        "io.neovim.nvim",
         "org.sugarlabs.FotoToon",
         "io.github.dfandrich.gpscorrelate",
         "org.gnome.design.SymbolicPreview",
