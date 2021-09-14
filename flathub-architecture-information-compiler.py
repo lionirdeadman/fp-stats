@@ -41,12 +41,14 @@ runtime_versions_1_6 = ["1.6", "3.26", "3.28", "5.9", "5.10", "5.11"]
 runtime_versions_18_08 = ["18.08", "3.30", "3.32", "5.12"]
 runtime_versions_19_08 = ["19.08", "3.34", "3.36", "5.13", "5.14"]
 runtime_versions_20_08 = ["20.08", "3.38", "5.15", "40"]
+runtime_versions_21_08 = ["21.08", "41"]
 
 # Assumed available runtimes
 archs_1_6 = {"x86_64", "i386", "aarch64", "arm"}
 archs_18_08 = {"x86_64", "i386", "aarch64", "arm"}
 archs_19_08 = {"x86_64", "aarch64", "arm"}
 archs_20_08 = {"x86_64", "aarch64"}
+archs_21_08 = {"x86_64", "aarch64"}
 
 # By default, they should start with list for easy appending
 runtime_information = collections.defaultdict(list)
@@ -102,6 +104,8 @@ for i in os.listdir("flathub/"):
         available_archs = set(archs_19_08)
     elif manifest["runtime-version"] in runtime_versions_20_08:
         available_archs = set(archs_20_08)
+    elif manifest["runtime-version"] in runtime_versions_21_08:
+        available_archs = set(archs_21_08)
     else:
         print(f'{manifest["runtime"]}//{manifest["runtime-version"]} is unsorted')
         continue
