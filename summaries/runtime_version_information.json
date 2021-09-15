@@ -418,8 +418,8 @@
             },
             "GNOME": {
                 "org.gnome.Platform//41rc": 1,
-                "org.gnome.Platform//40": 285,
-                "org.gnome.Sdk//40": 6,
+                "org.gnome.Platform//40": 289,
+                "org.gnome.Sdk//40": 2,
                 "org.gnome.Platform//3.38": 81,
                 "org.gnome.Sdk//3.38": 2,
                 "org.gnome.Platform//3.36": 34,
@@ -434,7 +434,7 @@
                 "org.kde.Platform//5.15": 294,
                 "org.kde.Sdk//5.15": 3,
                 "org.kde.Platform//5.14": 21,
-                "org.kde.Platform//5.12": 12,
+                "org.kde.Platform//5.12": 11,
                 "org.kde.Platform//5.11": 1,
                 "org.kde.Platform//5.9": 1
             }

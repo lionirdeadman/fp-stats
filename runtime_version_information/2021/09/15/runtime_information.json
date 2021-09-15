@@ -335,8 +335,7 @@
             "org.pyzo.pyzo",
             "org.vranki.spectral",
             "de.ifw_dresden.nagstamon",
-            "io.github.wereturtle.ghostwriter",
-            "org.mobsya.ThymioSuite"
+            "io.github.wereturtle.ghostwriter"
         ],
         "org.kde.Platform//5.11": [
             "com.notepadqq.Notepadqq"
@@ -411,6 +410,7 @@
             "org.eclipse.Javascript",
             "im.pidgin.Pidgin",
             "org.sugarlabs.Finance",
+            "io.github.lainsce.Notejot",
             "org.gnome.seahorse.Application",
             "org.gnome.design.Palette",
             "com.github.huluti.Coulr",
@@ -570,6 +570,7 @@
             "org.learningequality.Kolibri",
             "de.wwwtech.ColorMate",
             "com.rawtherapee.RawTherapee",
+            "io.github.lainsce.Khronos",
             "org.gnome.OCRFeeder",
             "io.github.trytonvanmeer.DungeonJournal",
             "com.github.rafostar.Clapper",
@@ -607,6 +608,7 @@
             "com.usebottles.bottles",
             "org.sugarlabs.Paint",
             "org.gnome.clocks",
+            "io.github.lainsce.Quilter",
             "com.arteeh.Flasher",
             "org.gnome.Hitori",
             "de.haeckerfelix.Shortwave",
@@ -631,6 +633,7 @@
             "org.mypaint.MyPaint",
             "org.gnucash.GnuCash",
             "org.gnome.dfeet",
+            "io.github.lainsce.DotMatrix",
             "org.sugarlabs.Memorize",
             "io.github.seadve.Kooha",
             "org.gnome.NetworkDisplays",
@@ -638,11 +641,7 @@
         ],
         "org.gnome.Sdk//40": [
             "org.gnome.Builder",
-            "org.geany.Geany",
-            "io.github.lainsce.Notejot",
-            "io.github.lainsce.Khronos",
-            "io.github.lainsce.Quilter",
-            "io.github.lainsce.DotMatrix"
+            "org.geany.Geany"
         ],
         "org.gnome.Platform//3.38": [
             "com.inform7.IDE",
