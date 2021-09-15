@@ -335,7 +335,8 @@
             "org.pyzo.pyzo",
             "org.vranki.spectral",
             "de.ifw_dresden.nagstamon",
-            "io.github.wereturtle.ghostwriter"
+            "io.github.wereturtle.ghostwriter",
+            "org.mobsya.ThymioSuite"
         ],
         "org.kde.Platform//5.11": [
             "com.notepadqq.Notepadqq"
