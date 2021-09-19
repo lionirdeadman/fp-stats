@@ -195,12 +195,12 @@
         },
         "1632009600.0": {
             "Freedesktop": {
-                "org.freedesktop.Platform//21.08": 73,
+                "org.freedesktop.Platform//21.08": 74,
                 "org.freedesktop.Sdk//21.08": 9,
                 "org.freedesktop.Platform//20.08": 271,
                 "org.freedesktop.Sdk//20.08": 18,
                 "org.freedesktop.Sdk//19.08": 5,
-                "org.freedesktop.Platform//19.08": 61,
+                "org.freedesktop.Platform//19.08": 60,
                 "org.freedesktop.Platform//18.08": 18
             },
             "GNOME": {
