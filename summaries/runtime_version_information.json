@@ -595,11 +595,11 @@
             "GNOME": {
                 "org.gnome.Platform//41rc": 1,
                 "org.gnome.Platform//41beta": 1,
-                "org.gnome.Platform//40": 314,
+                "org.gnome.Platform//40": 315,
                 "org.gnome.Sdk//40": 3,
                 "org.gnome.Platform//3.38": 80,
                 "org.gnome.Sdk//3.38": 2,
-                "org.gnome.Platform//3.36": 34,
+                "org.gnome.Platform//3.36": 33,
                 "org.gnome.Sdk//3.36": 1,
                 "org.gnome.Platform//3.34": 8,
                 "org.gnome.Platform//3.32": 3,
