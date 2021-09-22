@@ -518,7 +518,11 @@
             "org.gnome.Polari",
             "org.gnome.dspy",
             "org.gnome.Extensions",
-            "org.gnome.gitlab.Cowsay"
+            "org.gnome.gitlab.Cowsay",
+            "fr.romainvigier.MetadataCleaner"
+        ],
+        "org.gnome.Sdk//41": [
+            "org.gnome.Builder"
         ],
         "org.gnome.Platform//40": [
             "org.gnucash.GnuCash",
@@ -818,7 +822,6 @@
             "org.gnome.Connections",
             "net.danigm.timetrack",
             "re.sonny.Tangram",
-            "fr.romainvigier.MetadataCleaner",
             "info.febvre.Komikku",
             "io.github.kaschpal.timetable",
             "org.gnome.Gnote",
@@ -835,8 +838,7 @@
         ],
         "org.gnome.Sdk//40": [
             "org.geany.Geany",
-            "com.github.corna.Vivado",
-            "org.gnome.Builder"
+            "com.github.corna.Vivado"
         ],
         "org.gnome.Platform//3.38": [
             "org.tabos.maxcontrol",
