@@ -1075,7 +1075,6 @@
         "org.pyzo.pyzo",
         "io.gitlab.sdl_jstest.sdl_jstest",
         "org.gnode.NixView",
-        "com.github.raibtoffoletto.litteris",
         "net.sourceforge.fspclient",
         "org.caione.GScope",
         "org.flatpak.flat-manager-client",
