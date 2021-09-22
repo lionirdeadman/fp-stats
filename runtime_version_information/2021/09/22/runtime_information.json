@@ -74,6 +74,7 @@
             "net.pioneerspacesim.Pioneer",
             "io.github.ezQuake",
             "org.netsurf_browser.NetSurf",
+            "com.discordapp.Discord",
             "org.freeorion.FreeOrion",
             "com.github.bvschaik.julius",
             "com.orama_interactive.Pixelorama",
@@ -324,7 +325,6 @@
             "io.github.dfandrich.gpscorrelate",
             "com.qq.QQmusic",
             "net.sourceforge.Hugin",
-            "com.discordapp.Discord",
             "com.github.ryanakca.slingshot",
             "net.sourceforge.pdfchain",
             "com.teeworlds.Teeworlds",
@@ -514,6 +514,11 @@
         "org.gnome.Platform//41beta": [
             "org.gnome.TextEditor"
         ],
+        "org.gnome.Platform//41": [
+            "org.gnome.Polari",
+            "org.gnome.Extensions",
+            "org.gnome.gitlab.Cowsay"
+        ],
         "org.gnome.Platform//40": [
             "org.gnucash.GnuCash",
             "com.amazon.Workspaces",
@@ -547,7 +552,6 @@
             "com.github.joseexposito.touche",
             "org.sugarlabs.ImplodeActivity",
             "org.sugarlabs.Speak",
-            "org.gnome.Polari",
             "im.fluffychat.Fluffychat",
             "edu.berkeley.BOINC",
             "com.belmoussaoui.Authenticator",
@@ -709,7 +713,6 @@
             "de.haeckerfelix.Fragments",
             "com.github.akiraux.akira",
             "com.leinardi.gwe",
-            "org.gnome.Extensions",
             "org.darktable.Darktable",
             "com.github.maoschanz.drawing",
             "com.belmoussaoui.Decoder",
@@ -732,7 +735,6 @@
             "com.gitlab.guillermop.MasterKey",
             "org.gnome.Firmware",
             "org.sugarlabs.Chess",
-            "org.gnome.gitlab.Cowsay",
             "io.github.trytonvanmeer.DungeonJournal",
             "io.github.Hexchat",
             "org.gnome.Tali",
