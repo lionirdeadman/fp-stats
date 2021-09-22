@@ -92,6 +92,7 @@
             "com.play0ad.zeroad",
             "io.gitlab.Goodvibes",
             "net.sourceforge.fretsonfire",
+            "chat.tandem.Client",
             "com.endlessnetwork.dragonsapprentice",
             "io.github.freedoom.Phase1"
         ],
@@ -388,7 +389,6 @@
             "com.vagueentertainment.Framed",
             "no.mifi.losslesscut",
             "org.freedesktop.appstream-glib",
-            "chat.tandem.Client",
             "io.github.cmus.cmus",
             "net.sourceforge.xournal",
             "org.filezillaproject.Filezilla",
