@@ -516,6 +516,7 @@
         ],
         "org.gnome.Platform//41": [
             "org.gnome.Polari",
+            "org.gnome.dspy",
             "org.gnome.Extensions",
             "org.gnome.gitlab.Cowsay"
         ],
@@ -622,7 +623,6 @@
             "org.gnome.Photos",
             "org.gnome.Maps",
             "com.syntevo.SmartGit",
-            "org.gnome.dspy",
             "com.jonathankang.Weibird",
             "org.gnome.Calculator",
             "org.karapulse.Karapulse",
