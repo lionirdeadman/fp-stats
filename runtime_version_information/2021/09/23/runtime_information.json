@@ -516,6 +516,7 @@
         ],
         "org.gnome.Platform//41": [
             "net.lutris.Lutris",
+            "net.mancubus.SLADE",
             "org.gnome.Polari",
             "org.gnome.FileRoller",
             "com.github.liferooter.textpieces",
@@ -565,7 +566,6 @@
             "org.gnome.Chess",
             "com.hamrick.VueScan",
             "org.gnome.design.VectorSlicer",
-            "net.mancubus.SLADE",
             "com.leinardi.gx52",
             "work.openpaper.Paperwork",
             "org.sugarlabs.FractionBounce",
