@@ -515,6 +515,7 @@
             "org.gnome.TextEditor"
         ],
         "org.gnome.Platform//41": [
+            "net.lutris.Lutris",
             "org.gnome.Polari",
             "org.gnome.FileRoller",
             "com.github.liferooter.textpieces",
@@ -531,6 +532,7 @@
             "org.gnome.Epiphany",
             "org.gnome.design.Lorem",
             "com.github.wwmm.pulseeffects",
+            "com.abisource.AbiWord",
             "org.gnome.baobab",
             "org.gnome.design.Emblem",
             "fr.romainvigier.MetadataCleaner"
@@ -554,7 +556,6 @@
             "io.github.thiefmd.themegenerator",
             "dev.tchx84.Portfolio",
             "com.github.arshubham.gitignore",
-            "net.lutris.Lutris",
             "org.gnome.Music",
             "org.sugarlabs.Words",
             "com.github.huluti.Curtail",
@@ -778,7 +779,6 @@
             "org.gnome.moserial",
             "org.sonic3air.Sonic3AIR",
             "fr.handbrake.ghb",
-            "com.abisource.AbiWord",
             "org.gnome.Books",
             "org.gnome.PasswordSafe",
             "nl.sarine.gpx-viewer",
