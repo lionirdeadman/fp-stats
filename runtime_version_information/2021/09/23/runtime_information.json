@@ -536,7 +536,8 @@
             "com.abisource.AbiWord",
             "org.gnome.baobab",
             "org.gnome.design.Emblem",
-            "fr.romainvigier.MetadataCleaner"
+            "fr.romainvigier.MetadataCleaner",
+            "org.gnome.Gnote"
         ],
         "org.gnome.Sdk//41": [
             "org.gnome.Builder"
@@ -824,7 +825,6 @@
             "re.sonny.Tangram",
             "info.febvre.Komikku",
             "io.github.kaschpal.timetable",
-            "org.gnome.Gnote",
             "com.github.hugolabe.Wike",
             "io.github.fin_ger.OvGUCanteen",
             "com.belmoussaoui.ReadItLater",
