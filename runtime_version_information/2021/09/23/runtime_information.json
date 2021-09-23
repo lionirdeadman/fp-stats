@@ -517,6 +517,7 @@
         "org.gnome.Platform//41": [
             "org.gnome.Polari",
             "org.gnome.FileRoller",
+            "com.github.liferooter.textpieces",
             "com.syntevo.SmartGit",
             "org.gnome.dspy",
             "io.github.seadve.Kooha",
@@ -602,7 +603,6 @@
             "io.github.ImEditor",
             "com.gitlab.bitseater.meteo",
             "io.github.lainsce.Notejot",
-            "com.github.liferooter.textpieces",
             "com.gitlab.cunidev.Gestures",
             "net.lugsole.bible_gui",
             "com.github.subhadeepjasu.pebbles",
