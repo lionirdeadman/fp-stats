@@ -41,7 +41,7 @@ runtime_versions_1_6 = ["1.6", "3.26", "3.28", "5.9", "5.10", "5.11"]
 runtime_versions_18_08 = ["18.08", "3.30", "3.32", "5.12"]
 runtime_versions_19_08 = ["19.08", "3.34", "3.36", "5.13", "5.14"]
 runtime_versions_20_08 = ["20.08", "3.38", "5.15", "40"]
-runtime_versions_21_08 = ["21.08", "41"]
+runtime_versions_21_08 = ["21.08", "41", "5.15-21.08"]
 
 # Assumed available runtimes
 archs_1_6 = {"x86_64", "i386", "aarch64", "arm"}
