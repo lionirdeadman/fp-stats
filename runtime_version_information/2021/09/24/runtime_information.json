@@ -989,6 +989,7 @@
     },
     "KDE": {
         "org.kde.Platform//5.15-21.08": [
+            "org.fritzing.Fritzing",
             "com.github.makhber.Makhber",
             "org.musicbrainz.Picard",
             "io.github.shiftey.Desktop",
@@ -1013,7 +1014,6 @@
             "org.shotcut.Shotcut",
             "com.sourcepole.kadas",
             "org.quassel_irc.QuasselClient",
-            "org.fritzing.Fritzing",
             "org.kde.ktuberling",
             "io.jamulus.Jamulus",
             "org.kde.kjumpingcube",
