@@ -991,6 +991,7 @@
         "org.kde.Platform//5.15-21.08": [
             "com.github.makhber.Makhber",
             "org.musicbrainz.Picard",
+            "io.github.shiftey.Desktop",
             "net.rpcs3.RPCS3"
         ],
         "org.kde.Platform//5.15": [
@@ -1201,7 +1202,6 @@
             "org.kde.koko",
             "org.kde.kcalc",
             "org.kde.okteta",
-            "io.github.shiftey.Desktop",
             "org.cubocore.CoreHunt",
             "org.gottcode.Tanglet",
             "org.cubocore.CoreShot",
