@@ -508,9 +508,6 @@
         ]
     },
     "GNOME": {
-        "org.gnome.Platform//41rc": [
-            "org.gaphor.Gaphor"
-        ],
         "org.gnome.Platform//41beta": [
             "org.gnome.TextEditor"
         ],
@@ -531,6 +528,7 @@
             "org.gnome.Lollypop",
             "org.gnome.Extensions",
             "com.belmoussaoui.Decoder",
+            "org.gnome.DejaDup",
             "org.gnome.gitlab.Cowsay",
             "org.gnome.Epiphany",
             "org.gnome.design.Lorem",
@@ -538,6 +536,7 @@
             "com.abisource.AbiWord",
             "org.gnome.baobab",
             "org.gnome.design.Emblem",
+            "org.gaphor.Gaphor",
             "fr.romainvigier.MetadataCleaner",
             "org.gnome.Gnote"
         ],
@@ -732,7 +731,6 @@
             "org.emilien.Password",
             "org.gnome.design.BannerViewer",
             "org.sugarlabs.Dimensions",
-            "org.gnome.DejaDup",
             "org.gnome.Weather",
             "com.github.alexhuntley.Plots",
             "org.gnome.seahorse.Application",
