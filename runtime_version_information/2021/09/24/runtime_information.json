@@ -988,6 +988,9 @@
         ]
     },
     "KDE": {
+        "org.kde.Platform//5.15-21.08": [
+            "com.github.makhber.Makhber"
+        ],
         "org.kde.Platform//5.15": [
             "org.kde.klines",
             "org.leocad.LeoCAD",
@@ -1012,7 +1015,6 @@
             "io.jamulus.Jamulus",
             "org.kde.kjumpingcube",
             "net.kuribo64.melonDS",
-            "com.github.makhber.Makhber",
             "com.flashforge.FlashPrint",
             "org.gottcode.Kapow",
             "com.vesc_project.VescTool",
