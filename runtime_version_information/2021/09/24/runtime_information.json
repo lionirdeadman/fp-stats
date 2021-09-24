@@ -989,7 +989,9 @@
     },
     "KDE": {
         "org.kde.Platform//5.15-21.08": [
-            "com.github.makhber.Makhber"
+            "com.github.makhber.Makhber",
+            "org.musicbrainz.Picard",
+            "net.rpcs3.RPCS3"
         ],
         "org.kde.Platform//5.15": [
             "org.kde.klines",
@@ -1167,7 +1169,6 @@
             "org.cubocore.CoreInfo",
             "org.kde.kgoldrunner",
             "net.mediaarea.QCTools",
-            "org.musicbrainz.Picard",
             "org.opentransactions.metier",
             "org.kde.kid3",
             "org.kde.lokalize",
@@ -1269,7 +1270,6 @@
             "org.kde.klickety",
             "de.akaflieg_freiburg.cavok.add_hours_and_minutes",
             "io.github.cudatext.CudaText-Qt5",
-            "net.rpcs3.RPCS3",
             "org.tug.texworks",
             "org.kde.gwenview",
             "org.kde.ksudoku",
