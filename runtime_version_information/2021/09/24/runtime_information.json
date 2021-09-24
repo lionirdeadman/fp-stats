@@ -537,6 +537,7 @@
             "org.gnome.baobab",
             "org.gnome.design.Emblem",
             "org.gaphor.Gaphor",
+            "org.gnome.Connections",
             "fr.romainvigier.MetadataCleaner",
             "org.gnome.Gnote"
         ],
@@ -818,7 +819,6 @@
             "org.gnome.Characters",
             "com.github.gmg137.netease-cloud-music-gtk",
             "org.gnome.Taquin",
-            "org.gnome.Connections",
             "net.danigm.timetrack",
             "re.sonny.Tangram",
             "info.febvre.Komikku",
