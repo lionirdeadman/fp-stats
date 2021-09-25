@@ -1,6 +1,7 @@
 {
     "Freedesktop": {
         "org.freedesktop.Platform//21.08": [
+            "net.cozic.joplin_desktop",
             "io.openrct2.OpenRCT2",
             "com.endlessnetwork.MidnightmareTeddy",
             "com.etlegacy.ETLegacy",
@@ -117,7 +118,6 @@
             "org.flatpak.Builder"
         ],
         "org.freedesktop.Platform//20.08": [
-            "net.cozic.joplin_desktop",
             "org.deluge_torrent.deluge",
             "com.github.childishgiant.mixer",
             "com.mojang.Minecraft",
@@ -544,6 +544,7 @@
             "org.gnome.design.Emblem",
             "org.gaphor.Gaphor",
             "io.github.lainsce.DotMatrix",
+            "com.github.gmg137.netease-cloud-music-gtk",
             "org.gnome.Connections",
             "fr.romainvigier.MetadataCleaner",
             "org.gnome.Gnote"
@@ -818,7 +819,6 @@
             "io.github.Snaggly.PS2_Pnacher",
             "io.github.lukajankovic.ambience",
             "org.gnome.Characters",
-            "com.github.gmg137.netease-cloud-music-gtk",
             "org.gnome.Taquin",
             "net.danigm.timetrack",
             "re.sonny.Tangram",
