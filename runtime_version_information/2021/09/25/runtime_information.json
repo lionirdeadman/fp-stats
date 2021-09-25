@@ -547,6 +547,7 @@
             "com.github.gmg137.netease-cloud-music-gtk",
             "org.gnome.Connections",
             "fr.romainvigier.MetadataCleaner",
+            "com.github.xournalpp.xournalpp",
             "org.gnome.Gnote"
         ],
         "org.gnome.Sdk//41": [
@@ -914,7 +915,6 @@
             "com.github.taiko2k.avvie",
             "net.christianbeier.Gromit-MPX",
             "io.gitlab.jstest_gtk.jstest_gtk",
-            "com.github.xournalpp.xournalpp",
             "com.gitlab.adnan338.Nixwriter",
             "org.tabos.banking",
             "org.gnome.Quadrapassel",
