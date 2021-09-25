@@ -2,6 +2,7 @@
     "Freedesktop": {
         "org.freedesktop.Platform//21.08": [
             "net.cozic.joplin_desktop",
+            "tw.ddnet.ddnet",
             "io.openrct2.OpenRCT2",
             "com.endlessnetwork.MidnightmareTeddy",
             "com.etlegacy.ETLegacy",
@@ -122,7 +123,6 @@
             "org.deluge_torrent.deluge",
             "com.github.childishgiant.mixer",
             "com.mojang.Minecraft",
-            "tw.ddnet.ddnet",
             "com.xnview.XnConvert",
             "com.claudiocambra.brickbuster",
             "com.system76.Popsicle",
