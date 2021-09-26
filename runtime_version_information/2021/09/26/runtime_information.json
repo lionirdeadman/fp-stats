@@ -994,6 +994,7 @@
             "com.github.makhber.Makhber",
             "org.mixxx.Mixxx",
             "org.musicbrainz.Picard",
+            "org.getmonero.Monero",
             "org.kde.okteta",
             "net.rpcs3.RPCS3"
         ],
@@ -1189,7 +1190,6 @@
             "org.kde.okular",
             "com.szibele.e-juice-calc",
             "org.pymol.PyMOL",
-            "org.getmonero.Monero",
             "io.trustable.stpadocumentationtool",
             "net.dengine.Doomsday",
             "org.kde.ktouch",
