@@ -122,6 +122,7 @@
             "com.jetbrains.PhpStorm",
             "com.jetbrains.IntelliJ-IDEA-Community",
             "com.jetbrains.IntelliJ-IDEA-Ultimate",
+            "com.vscodium.codium",
             "org.flatpak.Builder"
         ],
         "org.freedesktop.Platform//20.08": [
@@ -417,7 +418,6 @@
             "com.jetbrains.CLion",
             "org.codeblocks.codeblocks",
             "rest.insomnia.Insomnia",
-            "com.vscodium.codium",
             "com.visualstudio.code-oss",
             "com.unity.UnityHub",
             "com.jetbrains.GoLand"
@@ -992,6 +992,7 @@
         "org.kde.Platform//5.15-21.08": [
             "org.fritzing.Fritzing",
             "com.github.makhber.Makhber",
+            "org.equeim.Tremotesf",
             "org.mixxx.Mixxx",
             "org.musicbrainz.Picard",
             "org.getmonero.Monero",
@@ -1119,7 +1120,6 @@
             "info.smplayer.SMPlayer",
             "io.lmms.LMMS",
             "org.dash.electrum.electrum_dash",
-            "org.equeim.Tremotesf",
             "uk.org.zint.zint-qt",
             "org.openscad.OpenSCAD",
             "org.kde.ktrip",
