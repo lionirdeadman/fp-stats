@@ -528,6 +528,7 @@
             "com.github.afrantzis.Bless",
             "com.syntevo.SmartGit",
             "org.gnome.dspy",
+            "org.gnome.Robots",
             "com.github.birros.WebArchives",
             "org.gnome.SwellFoop",
             "io.github.seadve.Kooha",
@@ -537,6 +538,7 @@
             "com.axosoft.GitKraken",
             "org.gnome.Lollypop",
             "io.github.lainsce.Khronos",
+            "org.gnome.LightsOff",
             "org.gnome.Extensions",
             "com.belmoussaoui.Decoder",
             "org.gnome.DejaDup",
@@ -555,7 +557,8 @@
             "org.gnome.Connections",
             "fr.romainvigier.MetadataCleaner",
             "com.github.xournalpp.xournalpp",
-            "org.gnome.Gnote"
+            "org.gnome.Gnote",
+            "org.gnome.Quadrapassel"
         ],
         "org.gnome.Sdk//41": [
             "org.gnome.Builder"
@@ -870,7 +873,6 @@
             "com.gigitux.youp",
             "ml.prevete.Daty",
             "org.gahshomar.Gahshomar",
-            "org.gnome.Robots",
             "com.github.utsushi.Utsushi",
             "io.otsaloma.gaupol",
             "com.github.labyrinth_team.labyrinth",
@@ -894,7 +896,6 @@
             "eu.nimmerfort.blackbody",
             "org.viking.Viking",
             "uk.et1.big-finish-downloader",
-            "org.gnome.LightsOff",
             "org.gnome.Rhythmbox3",
             "com.github.alainm23.planner",
             "com.github.johnfactotum.QuickLookup",
@@ -919,7 +920,6 @@
             "io.gitlab.jstest_gtk.jstest_gtk",
             "com.gitlab.adnan338.Nixwriter",
             "org.tabos.banking",
-            "org.gnome.Quadrapassel",
             "org.gnome.Reversi",
             "org.freedesktop.Piper"
         ],
