@@ -93,6 +93,7 @@
             "com.getferdi.Ferdi",
             "io.github.kotatogram",
             "org.linux_hardware.hw-probe",
+            "rest.insomnia.Insomnia",
             "com.slack.Slack",
             "com.github.libresprite.LibreSprite",
             "dev.ares.ares",
@@ -417,7 +418,6 @@
             "fr.natron.Natron",
             "com.jetbrains.CLion",
             "org.codeblocks.codeblocks",
-            "rest.insomnia.Insomnia",
             "com.visualstudio.code-oss",
             "com.unity.UnityHub",
             "com.jetbrains.GoLand"
@@ -997,6 +997,7 @@
             "org.musicbrainz.Picard",
             "org.getmonero.Monero",
             "org.kde.okteta",
+            "io.github.m64p.m64p",
             "net.rpcs3.RPCS3"
         ],
         "org.kde.Platform//5.15": [
@@ -1225,7 +1226,6 @@
             "io.github.gillesdegottex.FMIT",
             "org.mapeditor.Tiled",
             "org.olivevideoeditor.Olive",
-            "io.github.m64p.m64p",
             "org.kde.khangman",
             "org.wireshark.Wireshark",
             "org.kde.knavalbattle",
