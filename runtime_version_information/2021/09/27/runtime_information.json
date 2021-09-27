@@ -513,6 +513,7 @@
             "org.gnome.TextEditor"
         ],
         "org.gnome.Platform//41": [
+            "org.gnome.font-viewer",
             "net.lutris.Lutris",
             "com.hamrick.VueScan",
             "net.mancubus.SLADE",
@@ -575,7 +576,6 @@
             "io.github.achetagames.epic_asset_manager",
             "org.gnome.Devhelp",
             "com.gitlab.newsflash",
-            "org.gnome.font-viewer",
             "com.github.treagod.spectator",
             "com.neatdecisions.Detwinner",
             "com.bitstower.Markets",
