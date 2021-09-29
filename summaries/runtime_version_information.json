@@ -664,12 +664,12 @@
         },
         "1632873600.0": {
             "Freedesktop": {
-                "org.freedesktop.Platform//21.08": 116,
+                "org.freedesktop.Platform//21.08": 117,
                 "org.freedesktop.Sdk//21.08": 13,
                 "org.freedesktop.Platform//20.08": 270,
                 "org.freedesktop.Sdk//20.08": 17,
                 "org.freedesktop.Sdk//19.08": 5,
-                "org.freedesktop.Platform//19.08": 54,
+                "org.freedesktop.Platform//19.08": 53,
                 "org.freedesktop.Platform//18.08": 18
             },
             "GNOME": {
