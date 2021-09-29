@@ -1000,7 +1000,8 @@
             "org.kde.okteta",
             "io.github.m64p.m64p",
             "org.citra_emu.citra",
-            "net.rpcs3.RPCS3"
+            "net.rpcs3.RPCS3",
+            "com.virustotal.VirusTotalUploader"
         ],
         "org.kde.Platform//5.15": [
             "org.kde.klines",
@@ -1294,7 +1295,6 @@
             "org.kde.kdenlive",
             "org.flightgear.FlightGear",
             "org.kde.elisa",
-            "com.virustotal.VirusTotalUploader",
             "re.chiaki.Chiaki",
             "io.github.muse_sequencer.Muse",
             "org.openchemistry.Avogadro2",
