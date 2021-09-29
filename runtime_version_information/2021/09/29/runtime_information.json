@@ -999,6 +999,7 @@
             "org.getmonero.Monero",
             "org.kde.okteta",
             "io.github.m64p.m64p",
+            "org.citra_emu.citra",
             "net.rpcs3.RPCS3"
         ],
         "org.kde.Platform//5.15": [
@@ -1254,7 +1255,6 @@
             "com.github.elth0r0.iqpuzzle",
             "org.kde.keysmith",
             "io.github.cloose.CuteMarkEd",
-            "org.citra_emu.citra",
             "org.gottcode.Peg-E",
             "org.libretro.RetroArch",
             "net.sourceforge.VMPK",
