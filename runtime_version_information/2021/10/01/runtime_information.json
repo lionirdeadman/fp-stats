@@ -513,6 +513,7 @@
             "org.gnome.TextEditor"
         ],
         "org.gnome.Platform//41": [
+            "org.gnome.Devhelp",
             "org.gnome.font-viewer",
             "net.lutris.Lutris",
             "org.gnome.Music",
@@ -593,7 +594,6 @@
             "com.amazon.Workspaces",
             "org.gnome.Todo",
             "io.github.achetagames.epic_asset_manager",
-            "org.gnome.Devhelp",
             "com.gitlab.newsflash",
             "com.github.treagod.spectator",
             "com.neatdecisions.Detwinner",
