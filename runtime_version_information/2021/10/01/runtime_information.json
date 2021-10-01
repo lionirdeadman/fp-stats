@@ -1001,7 +1001,8 @@
             "io.github.m64p.m64p",
             "org.citra_emu.citra",
             "net.rpcs3.RPCS3",
-            "com.virustotal.VirusTotalUploader"
+            "com.virustotal.VirusTotalUploader",
+            "io.mgba.mGBA"
         ],
         "org.kde.Platform//5.15": [
             "org.kde.klines",
@@ -1303,7 +1304,6 @@
             "org.kde.kblocks",
             "at.priv.toastfreeware.ConfClerk",
             "com.stremio.Stremio",
-            "io.mgba.mGBA",
             "org.bitbucket.mystery_keeper.VapourSynthEditor",
             "space.fips.Fips",
             "org.qbittorrent.qBittorrent",
