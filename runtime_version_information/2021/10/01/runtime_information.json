@@ -47,6 +47,7 @@
             "org.zaproxy.ZAP",
             "org.dhewm3.Dhewm3",
             "io.conduktor.Conduktor",
+            "org.scummvm.ScummVM",
             "org.flycast.Flycast",
             "com.github.vladimiry.ElectronMail",
             "com.endlessnetwork.missilemath",
@@ -55,6 +56,7 @@
             "com.endlessnetwork.passage",
             "com.meetfranz.Franz",
             "com.endlessnetwork.aqueducts",
+            "com.dosbox.DOSBox",
             "de.uni_heidelberg.zah.GaiaSky",
             "fr.free.hxc2001.HxCFloppyEmulator",
             "org.flarerpg.Flare",
@@ -245,7 +247,6 @@
             "org.wesnoth.Wesnoth",
             "com.jpexs.decompiler.flash",
             "org.bzflag.BZFlag",
-            "org.scummvm.ScummVM",
             "org.freeciv.Freeciv",
             "org.firestormviewer.FirestormViewer",
             "net.veloren.airshipper",
@@ -266,7 +267,6 @@
             "tv.kodi.Kodi",
             "org.shadered.SHADERed",
             "com.github.jms55.Sandbox",
-            "com.dosbox.DOSBox",
             "org.jdownloader.JDownloader",
             "edu.mit.Scratch",
             "com.adobe.Flash-Player-Projector",
@@ -582,6 +582,7 @@
             "fr.romainvigier.MetadataCleaner",
             "com.github.xournalpp.xournalpp",
             "org.gnome.Gnote",
+            "org.tabos.banking",
             "org.gnome.Quadrapassel"
         ],
         "org.gnome.Sdk//41": [
@@ -918,7 +919,6 @@
             "net.christianbeier.Gromit-MPX",
             "io.gitlab.jstest_gtk.jstest_gtk",
             "com.gitlab.adnan338.Nixwriter",
-            "org.tabos.banking",
             "org.gnome.Reversi",
             "org.freedesktop.Piper"
         ],
