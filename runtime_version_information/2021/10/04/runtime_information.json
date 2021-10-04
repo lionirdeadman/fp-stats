@@ -989,6 +989,7 @@
     "KDE": {
         "org.kde.Platform//5.15-21.08": [
             "com.rosegardenmusic.rosegarden",
+            "nz.mega.MEGAsync",
             "org.fritzing.Fritzing",
             "com.github.makhber.Makhber",
             "com.github.micahflee.torbrowser-launcher",
@@ -1014,7 +1015,6 @@
             "io.github.OpenToonz",
             "org.duckstation.DuckStation",
             "org.tordini.flavio.Minitube",
-            "nz.mega.MEGAsync",
             "de.bund.ausweisapp.ausweisapp2",
             "org.musescore.MuseScore",
             "org.groestlcoin.electrum-grs",
