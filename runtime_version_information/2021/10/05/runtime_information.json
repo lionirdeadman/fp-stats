@@ -1005,6 +1005,7 @@
             "io.github.m64p.m64p",
             "org.citra_emu.citra",
             "net.rpcs3.RPCS3",
+            "io.github.peazip.PeaZip",
             "com.virustotal.VirusTotalUploader",
             "io.mgba.mGBA"
         ],
@@ -1289,7 +1290,6 @@
             "eu.vcmi.VCMI",
             "xyz.z3ntu.razergenie",
             "org.kde.vvave",
-            "io.github.peazip.PeaZip",
             "org.avidemux.Avidemux",
             "org.zealdocs.Zeal",
             "org.kde.kdenlive",
