@@ -120,6 +120,7 @@
             "com.getferdi.Ferdi",
             "io.github.kotatogram",
             "org.linux_hardware.hw-probe",
+            "com.retrodev.blastem",
             "rest.insomnia.Insomnia",
             "com.slack.Slack",
             "com.github.libresprite.LibreSprite",
@@ -502,7 +503,6 @@
             "io.ark.Desktop",
             "com.abagames.noiz2sa",
             "com.openwall.John",
-            "com.retrodev.blastem",
             "io.gitlab.osslugaru.Lugaru",
             "com.xnview.XnSketch"
         ]
