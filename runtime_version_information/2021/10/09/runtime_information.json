@@ -537,7 +537,8 @@
             "org.flathub.flatpak-external-data-checker",
             "com.jetbrains.WebStorm",
             "com.jetbrains.IntelliJ-IDEA-Community",
-            "com.visualstudio.code"
+            "com.visualstudio.code",
+            "com.visualstudio.code-oss"
         ],
         "org.freedesktop.Platform//20.08": [
             "com.endlessm.HatchPreviewer",
@@ -799,7 +800,6 @@
             "io.atom.Atom",
             "io.neovim.nvim",
             "org.scilab.Scilab",
-            "com.visualstudio.code-oss",
             "com.visualstudio.code.insiders"
         ],
         "org.freedesktop.Sdk//19.08": [
