@@ -378,6 +378,7 @@
         "org.freedesktop.Platform//21.08": [
             "io.conduktor.Conduktor",
             "net.redeclipse.RedEclipse",
+            "cc.arduino.arduinoide",
             "com.github.reds.LogisimEvolution",
             "io.github.tofudd.lanchat.terminal",
             "com.meetfranz.Franz",
@@ -549,7 +550,6 @@
             "net.veloren.airshipper",
             "com.github.phase1geo.minder",
             "org.freeciv.Freeciv",
-            "cc.arduino.arduinoide",
             "com.github.nihui.waifu2x-ncnn-vulkan",
             "net.openra.OpenRA",
             "app.getspace.Space",
