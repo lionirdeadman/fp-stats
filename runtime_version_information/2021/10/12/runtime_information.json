@@ -22,7 +22,8 @@
             "net.rpcs3.RPCS3",
             "org.musicbrainz.Picard",
             "org.getmonero.Monero",
-            "io.github.peazip.PeaZip"
+            "io.github.peazip.PeaZip",
+            "org.qutebrowser.qutebrowser"
         ],
         "org.kde.Platform//5.15": [
             "org.goldendict.GoldenDict",
@@ -320,7 +321,6 @@
             "org.kde.kxstitch",
             "org.stellarium.Stellarium",
             "com.chatterino.chatterino",
-            "org.qutebrowser.qutebrowser",
             "com.eminfedar.vaktisalah",
             "org.onionshare.OnionShare",
             "org.eyecreate.qiflora",
