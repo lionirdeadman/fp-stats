@@ -531,6 +531,7 @@
             "com.vscodium.codium",
             "org.apache.netbeans",
             "org.thonny.Thonny",
+            "fr.natron.Natron",
             "org.gnu.emacs",
             "com.jetbrains.IntelliJ-IDEA-Ultimate",
             "com.jetbrains.PyCharm-Community",
@@ -788,7 +789,6 @@
             "net.peercoin.peercoin-qt"
         ],
         "org.freedesktop.Sdk//20.08": [
-            "fr.natron.Natron",
             "app.midterm.MidtermDesktop",
             "com.jetbrains.CLion",
             "com.unity.UnityHub",
