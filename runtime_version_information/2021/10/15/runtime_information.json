@@ -377,6 +377,7 @@
     "Freedesktop": {
         "org.freedesktop.Platform//21.08": [
             "io.conduktor.Conduktor",
+            "com.github.phase1geo.minder",
             "net.redeclipse.RedEclipse",
             "cc.arduino.arduinoide",
             "com.github.reds.LogisimEvolution",
@@ -554,7 +555,6 @@
             "com.viber.Viber",
             "com.springrts.SpringLobby",
             "net.veloren.airshipper",
-            "com.github.phase1geo.minder",
             "org.freeciv.Freeciv",
             "com.github.nihui.waifu2x-ncnn-vulkan",
             "net.openra.OpenRA",
@@ -982,6 +982,7 @@
             "ca.desrt.dconf-editor",
             "io.github.sharkwouter.Minigalaxy",
             "re.sonny.Tangram",
+            "com.github.amikha1lov.RecApp",
             "org.gnome.baobab",
             "org.eclipse.Java",
             "com.github.wwmm.pulseeffects",
@@ -1184,7 +1185,6 @@
             "com.github.fabiocolacio.marker",
             "com.leinardi.gx52",
             "org.gnome.Aisleriot",
-            "com.github.amikha1lov.RecApp",
             "org.nongnu.gsequencer.gsequencer",
             "org.gnome.Mines",
             "dev.alextren.Spot",
