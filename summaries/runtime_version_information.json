@@ -1700,7 +1700,7 @@
             },
             "KDE": {
                 "org.kde.Platform//5.15-21.08": 24,
-                "org.kde.Platform//5.15": 298,
+                "org.kde.Platform//5.15": 297,
                 "org.kde.Sdk//5.15": 4,
                 "org.kde.Platform//5.14": 19,
                 "org.kde.Platform//5.12": 12,
