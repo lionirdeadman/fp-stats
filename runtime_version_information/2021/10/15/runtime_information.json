@@ -189,6 +189,7 @@
             "org.librepcb.LibrePCB",
             "io.bit3.WhatsAppQT",
             "org.groestlcoin.electrum-grs",
+            "org.cubocore.CoreStats",
             "org.kde.kalzium",
             "org.kde.lokalize",
             "org.musescore.MuseScore",
