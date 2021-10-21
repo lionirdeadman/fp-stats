@@ -1483,8 +1483,8 @@
                 "org.gnome.Platform//3.26": 1
             },
             "KDE": {
-                "org.kde.Platform//5.15-21.08": 25,
-                "org.kde.Platform//5.15": 298,
+                "org.kde.Platform//5.15-21.08": 26,
+                "org.kde.Platform//5.15": 297,
                 "org.kde.Sdk//5.15": 4,
                 "org.kde.Platform//5.14": 18,
                 "org.kde.Platform//5.12": 12,

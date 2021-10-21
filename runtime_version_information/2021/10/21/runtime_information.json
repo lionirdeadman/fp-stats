@@ -23,6 +23,7 @@
             "org.kde.okteta",
             "net.rpcs3.RPCS3",
             "org.musicbrainz.Picard",
+            "io.lmms.LMMS",
             "org.getmonero.Monero",
             "io.github.peazip.PeaZip",
             "org.qutebrowser.qutebrowser"
@@ -312,7 +313,6 @@
             "org.kde.gcompris",
             "org.pegasus_frontend.Pegasus",
             "net.dengine.Doomsday",
-            "io.lmms.LMMS",
             "com.github.iwalton3.jellyfin-media-player",
             "com.georgefb.quickaccess",
             "org.kde.kblackbox",
