@@ -553,6 +553,7 @@
             "com.jetbrains.PyCharm-Professional",
             "org.flatpak.Builder",
             "com.jetbrains.Rider",
+            "io.neovim.nvim",
             "org.flathub.flatpak-external-data-checker",
             "com.jetbrains.WebStorm",
             "com.jetbrains.IntelliJ-IDEA-Community",
@@ -799,7 +800,6 @@
             "io.gdevs.GDLauncher",
             "com.synology.SynologyDrive",
             "io.atom.Atom",
-            "io.neovim.nvim",
             "org.scilab.Scilab",
             "com.visualstudio.code.insiders"
         ],
