@@ -1,6 +1,7 @@
 {
     "KDE": {
         "org.kde.Platform//5.15-21.08": [
+            "io.github.cudatext.CudaText-Qt5",
             "org.mixxx.Mixxx",
             "io.github.m64p.m64p",
             "org.fritzing.Fritzing",
@@ -37,7 +38,6 @@
             "org.quassel_irc.QuasselClient",
             "net.mediaarea.BWFMetaEdit",
             "com.codemouse92.timecard",
-            "io.github.cudatext.CudaText-Qt5",
             "com.github.jmlich.geotagging",
             "io.bit3.ThreemaQT",
             "org.kde.vvave",
