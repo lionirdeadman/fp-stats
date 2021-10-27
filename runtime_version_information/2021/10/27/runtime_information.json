@@ -995,6 +995,7 @@
             "com.github.wwmm.pulseeffects",
             "org.gnome.Solanum",
             "org.gnome.Rhythmbox3",
+            "edu.berkeley.BOINC",
             "com.github.unrud.VideoDownloader",
             "com.st.STM32CubeIDE",
             "org.gnome.Robots"
@@ -1207,7 +1208,6 @@
             "org.gnome.Evince",
             "org.gabmus.hydrapaper",
             "com.dropbox.Client",
-            "edu.berkeley.BOINC",
             "org.gnome.Geary",
             "org.sugarlabs.Speak",
             "com.gitlab.cunidev.Gestures",
