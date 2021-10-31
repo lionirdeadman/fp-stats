@@ -546,7 +546,8 @@
             "chat.tandem.Client",
             "com.google.Chrome",
             "org.flozz.yoga-image-optimizer",
-            "org.gtkhash.gtkhash"
+            "org.gtkhash.gtkhash",
+            "com.github.emmanueltouzery.hotwire"
         ],
         "org.freedesktop.Sdk//21.08": [
             "com.vscodium.codium",
@@ -789,7 +790,6 @@
             "moe.tundra.Tundra",
             "at.vintagestory.VintageStory",
             "net.sourceforge.efaxgtk",
-            "com.github.emmanueltouzery.hotwire",
             "net.peercoin.peercoin-qt"
         ],
         "org.freedesktop.Sdk//20.08": [
