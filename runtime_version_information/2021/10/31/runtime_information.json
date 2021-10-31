@@ -1001,7 +1001,8 @@
             "edu.berkeley.BOINC",
             "com.github.unrud.VideoDownloader",
             "com.st.STM32CubeIDE",
-            "org.gnome.Robots"
+            "org.gnome.Robots",
+            "org.freedesktop.Piper"
         ],
         "org.gnome.Sdk//41": [
             "org.codeblocks.codeblocks",
@@ -1295,7 +1296,6 @@
             "com.github.ztefn.haguichi",
             "io.gitlab.jstest_gtk.jstest_gtk",
             "com.github.dawidd6.checksumo",
-            "org.freedesktop.Piper",
             "eu.nimmerfort.blackbody",
             "com.github.taiko2k.avvie"
         ],

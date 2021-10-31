@@ -1900,11 +1900,11 @@
             },
             "GNOME": {
                 "org.gnome.Platform//41beta": 1,
-                "org.gnome.Platform//41": 116,
+                "org.gnome.Platform//41": 117,
                 "org.gnome.Sdk//41": 2,
                 "org.gnome.Platform//40": 219,
                 "org.gnome.Sdk//40": 2,
-                "org.gnome.Platform//3.38": 65,
+                "org.gnome.Platform//3.38": 64,
                 "org.gnome.Sdk//3.38": 2,
                 "org.gnome.Platform//3.36": 28,
                 "org.gnome.Sdk//3.36": 1,
