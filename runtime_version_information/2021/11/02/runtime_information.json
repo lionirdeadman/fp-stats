@@ -2,6 +2,7 @@
     "KDE": {
         "org.kde.Platform//5.15-21.08": [
             "io.github.cudatext.CudaText-Qt5",
+            "com.notepadqq.Notepadqq",
             "org.mixxx.Mixxx",
             "io.github.m64p.m64p",
             "org.fritzing.Fritzing",
@@ -366,9 +367,6 @@
             "io.botfather.Botfather",
             "io.github.janbar.noson",
             "org.pyzo.pyzo"
-        ],
-        "org.kde.Platform//5.11": [
-            "com.notepadqq.Notepadqq"
         ],
         "org.kde.Platform//5.9": [
             "com.remarkable.reMarkable"
