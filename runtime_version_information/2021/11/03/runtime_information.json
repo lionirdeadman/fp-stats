@@ -864,6 +864,7 @@
             "org.famistudio.FamiStudio",
             "com.github.PintaProject.Pinta",
             "org.zim_wiki.Zim",
+            "com.github.lachhebo.Gabtag",
             "org.gabmus.gfeeds",
             "com.github.muriloventuroso.easyssh",
             "org.cvfosammmm.Setzer",
@@ -1036,7 +1037,6 @@
             "org.kde.kasts",
             "info.mumble.Mumble",
             "com.github.unrud.djpdf",
-            "info.smplayer.SMPlayer",
             "org.pymol.PyMOL",
             "com.szibele.e-juice-calc",
             "com.github.quaternion",
@@ -1341,6 +1341,7 @@
             "org.eyecreate.vehiclevoyage"
         ],
         "org.kde.Platform//5.12": [
+            "info.smplayer.SMPlayer",
             "io.github.janbar.noson",
             "org.eu.encom.spectral",
             "net.mediaarea.MediaConch",
