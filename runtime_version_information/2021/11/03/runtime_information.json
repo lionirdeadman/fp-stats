@@ -618,6 +618,7 @@
             "io.github.lainsce.Notejot",
             "org.soundconverter.SoundConverter",
             "com.github.wwmm.pulseeffects",
+            "io.gitlab.jstest_gtk.jstest_gtk",
             "net.mancubus.SLADE",
             "org.gaphor.Gaphor",
             "org.gnome.Music",
@@ -921,7 +922,6 @@
             "com.github.alainm23.planner",
             "com.github.tenderowl.norka",
             "org.worldpossible.ScriptLauncher",
-            "io.gitlab.jstest_gtk.jstest_gtk",
             "uk.et1.big-finish-downloader"
         ],
         "org.gnome.Sdk//3.38": [
