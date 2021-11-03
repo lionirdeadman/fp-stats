@@ -988,6 +988,7 @@
     },
     "KDE": {
         "org.kde.Platform//5.15-21.08": [
+            "org.easycoding.TunedSwitcher",
             "org.kde.okteta",
             "org.yuzu_emu.yuzu",
             "io.github.m64p.m64p",
@@ -1028,7 +1029,6 @@
             "org.kde.kontrast",
             "dev.lukebriggs.pepys",
             "org.libretro.RetroArch",
-            "org.easycoding.TunedSwitcher",
             "org.cubocore.CoreTime",
             "org.kde.kblocks",
             "org.qownnotes.QOwnNotes",
@@ -1073,7 +1073,6 @@
             "org.videolan.VLC",
             "dev.rdm.RDM",
             "org.zealdocs.Zeal",
-            "net.mediaarea.MOVMetaEdit",
             "xyz.z3ntu.razergenie",
             "org.texstudio.TeXstudio",
             "io.github.chris2511.xca",
