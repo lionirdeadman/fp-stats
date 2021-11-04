@@ -1021,7 +1021,8 @@
             "org.ksnip.ksnip",
             "org.musicbrainz.Picard",
             "com.github.micahflee.torbrowser-launcher",
-            "org.qutebrowser.qutebrowser"
+            "org.qutebrowser.qutebrowser",
+            "com.github.Flacon"
         ],
         "org.kde.Platform//5.15": [
             "org.tug.texworks",
@@ -1306,7 +1307,6 @@
             "de.unifreiburg.ellipticcurve",
             "org.cubocore.CorePaint",
             "org.kde.kwordquiz",
-            "com.github.Flacon",
             "io.github.antimicrox.antimicrox",
             "org.kde.konversation",
             "org.kde.kgeography",
