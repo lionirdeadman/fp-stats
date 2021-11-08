@@ -154,6 +154,7 @@
             "org.mozilla.Thunderbird",
             "ar.com.tuxguitar.TuxGuitar",
             "com.endlessnetwork.fablemaker",
+            "com.inklestudios.Inky",
             "org.flozz.yoga-image-optimizer",
             "com.quixel.Bridge",
             "org.gna.Warmux",
@@ -391,7 +392,6 @@
             "org.squeakland.Etoys",
             "io.sourceforge.Pixelitor",
             "com.shatteredpixel.shatteredpixeldungeon",
-            "com.inklestudios.Inky",
             "io.gitlab.construo.construo",
             "com.discordapp.DiscordCanary",
             "org.freeciv.Freeciv",
@@ -964,6 +964,7 @@
         "org.gnome.Platform//3.34": [
             "com.github.bcedu.valasimplehttpserver",
             "org.gnome.Eolie",
+            "org.caione.GScope",
             "org.xiphos.Xiphos",
             "com.github.JannikHv.Gydl",
             "org.laptop.TurtleArtActivity",
