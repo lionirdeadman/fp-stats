@@ -964,7 +964,6 @@
         "org.gnome.Platform//3.34": [
             "com.github.bcedu.valasimplehttpserver",
             "org.gnome.Eolie",
-            "org.caione.GScope",
             "org.xiphos.Xiphos",
             "com.github.JannikHv.Gydl",
             "org.laptop.TurtleArtActivity",
