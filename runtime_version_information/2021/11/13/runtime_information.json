@@ -7,6 +7,7 @@
             "com.getferdi.Ferdi",
             "com.play0ad.zeroad",
             "com.etlegacy.ETLegacy",
+            "com.github.muriloventuroso.givemelyrics",
             "es.estoes.wallpaperDownloader",
             "com.prusa3d.PrusaSlicer",
             "im.riot.Riot",
@@ -433,7 +434,6 @@
         ],
         "org.freedesktop.Platform//19.08": [
             "com.greyrook.siptop",
-            "com.github.muriloventuroso.givemelyrics",
             "com.jaquadro.NBTExplorer",
             "com.varnamproject.Varnam",
             "net.zgcoder.skycheckers",
