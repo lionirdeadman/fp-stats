@@ -178,6 +178,7 @@
             "net.sourceforge.Fillets",
             "org.nmap.Zenmap",
             "com.gitlab.coringao.cavestory-nx",
+            "org.claws_mail.Claws-Mail",
             "dk.tangramgames.mrrescue",
             "com.github.optyfr.JRomManager",
             "net.mediaarea.MediaInfo"
@@ -410,7 +411,6 @@
             "md.obsidian.Obsidian",
             "com.github.emmanueltouzery.cigale",
             "org.frozen_bubble.frozen-bubble",
-            "org.claws_mail.Claws-Mail",
             "org.enjoyingfoss.FOSStriangulator",
             "com.bluejeans.BlueJeans",
             "com.pypyrev.linuxdcpp",
