@@ -989,6 +989,7 @@
     "KDE": {
         "org.kde.Platform//5.15-21.08": [
             "org.easycoding.TunedSwitcher",
+            "de.rwth_aachen.ient.YUView",
             "org.kde.okteta",
             "org.yuzu_emu.yuzu",
             "io.github.m64p.m64p",
@@ -1321,7 +1322,6 @@
             "io.qt.QtCreator"
         ],
         "org.kde.Platform//5.14": [
-            "de.rwth_aachen.ient.YUView",
             "eu.ototu.Quteqoin",
             "io.gitlab.o20.word",
             "io.github.hermitdemschoenenleben.linien",
