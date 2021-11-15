@@ -179,6 +179,7 @@
             "org.nmap.Zenmap",
             "com.gitlab.coringao.cavestory-nx",
             "org.claws_mail.Claws-Mail",
+            "dk.tangramgames.mrrescue",
             "com.github.optyfr.JRomManager",
             "net.mediaarea.MediaInfo"
         ],
@@ -198,6 +199,7 @@
             "com.jetbrains.IntelliJ-IDEA-Community",
             "com.jetbrains.WebStorm",
             "io.neovim.nvim",
+            "com.jetbrains.PhpStorm",
             "fr.natron.Natron",
             "com.vscodium.codium"
         ],
@@ -214,6 +216,7 @@
             "com.system76.Popsicle",
             "com.github.marinm.songrec",
             "org.openstreetmap.josm",
+            "com.sireliah.Dragit",
             "org.freecol.FreeCol",
             "com.github.ransome1.sleek",
             "com.xnview.XnViewMP",
@@ -630,6 +633,7 @@
             "com.st.STM32CubeIDE",
             "org.gnome.Contacts",
             "org.gnome.Connections",
+            "org.gnome.Maps",
             "org.emilien.Password",
             "ca.desrt.dconf-editor"
         ],
@@ -809,6 +813,7 @@
             "cz.zeropage.Formiko",
             "org.gnome.Books",
             "io.github.helpseeker.Gyre",
+            "io.github.mpobaschnig.Vaults",
             "ar.xjuan.Cambalache",
             "com.github.weclaw1.ImageRoll",
             "org.sonic3air.Sonic3AIR",
@@ -1091,6 +1096,7 @@
             "org.stellarium.Stellarium",
             "org.kde.artikulate",
             "org.kde.kalzium",
+            "space.fips.Fips",
             "org.kde.katomic",
             "io.trustable.stpadocumentationtool",
             "org.kde.kweather",
