@@ -643,7 +643,8 @@
         ],
         "org.gnome.Sdk//41": [
             "org.codeblocks.codeblocks",
-            "org.gnome.Builder"
+            "org.gnome.Builder",
+            "org.geany.Geany"
         ],
         "org.gnome.Platform//40": [
             "io.github.seadve.Mousai",
@@ -860,8 +861,7 @@
             "io.github.jliljebl.Flowblade"
         ],
         "org.gnome.Sdk//40": [
-            "com.github.corna.Vivado",
-            "org.geany.Geany"
+            "com.github.corna.Vivado"
         ],
         "org.gnome.Platform//3.38": [
             "org.famistudio.FamiStudio",
