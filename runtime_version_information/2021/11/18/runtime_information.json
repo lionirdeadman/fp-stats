@@ -188,6 +188,7 @@
         "org.freedesktop.Sdk//21.08": [
             "com.jetbrains.PhpStorm",
             "org.thonny.Thonny",
+            "org.geany.Geany",
             "com.visualstudio.code-oss",
             "fr.natron.Natron",
             "io.neovim.nvim",
@@ -641,7 +642,6 @@
             "org.gnome.design.Lorem"
         ],
         "org.gnome.Sdk//41": [
-            "org.geany.Geany",
             "org.gnome.Builder",
             "org.codeblocks.codeblocks"
         ],
