@@ -182,6 +182,7 @@
             "rest.insomnia.Insomnia",
             "org.freeorion.FreeOrion",
             "com.discordapp.Discord",
+            "org.desmume.DeSmuME",
             "com.meetfranz.Franz",
             "com.github.reds.LogisimEvolution"
         ],
@@ -416,7 +417,6 @@
             "net.biniou.LeBiniou",
             "org.kde.krita",
             "com.github.ransome1.sleek",
-            "org.desmume.DeSmuME",
             "net.sourceforge.jpdftweak.jPdfTweak",
             "com.eduke32.EDuke32"
         ],
