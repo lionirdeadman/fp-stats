@@ -3574,12 +3574,12 @@
             },
             "GNOME": {
                 "org.gnome.Platform//41beta": 1,
-                "org.gnome.Platform//41": 130,
+                "org.gnome.Platform//41": 131,
                 "org.gnome.Sdk//41": 2,
                 "org.gnome.Platform//40": 210,
                 "org.gnome.Sdk//40": 1,
                 "org.gnome.Sdk//3.38": 2,
-                "org.gnome.Platform//3.38": 59,
+                "org.gnome.Platform//3.38": 58,
                 "org.gnome.Platform//3.36": 27,
                 "org.gnome.Sdk//3.36": 1,
                 "org.gnome.Platform//3.34": 8,
@@ -3589,8 +3589,8 @@
                 "org.gnome.Platform//3.26": 1
             },
             "KDE": {
-                "org.kde.Platform//5.15-21.08": 38,
-                "org.kde.Platform//5.15": 287,
+                "org.kde.Platform//5.15-21.08": 39,
+                "org.kde.Platform//5.15": 286,
                 "org.kde.Sdk//5.15": 4,
                 "org.kde.Platform//5.14": 17,
                 "org.kde.Platform//5.12": 13,
