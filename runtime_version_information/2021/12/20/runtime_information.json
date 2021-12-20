@@ -610,7 +610,8 @@
             "com.jetbrains.CLion",
             "io.neovim.nvim",
             "org.geany.Geany",
-            "com.visualstudio.code-oss"
+            "com.visualstudio.code-oss",
+            "com.okta.developer.CLI"
         ],
         "org.freedesktop.Platform//20.08": [
             "com.xnview.XnConvert",
@@ -820,8 +821,7 @@
             "com.synology.CloudStationBackup",
             "com.sublimetext.three",
             "org.aliflang.lang",
-            "io.brackets.Brackets",
-            "com.okta.developer.CLI"
+            "io.brackets.Brackets"
         ],
         "org.freedesktop.Platform//19.08": [
             "com.github.calo001.luna",
