@@ -890,6 +890,7 @@
             "org.gnome.TextEditor"
         ],
         "org.gnome.Platform//41": [
+            "org.gnome.Firmware",
             "com.usebottles.bottles",
             "info.febvre.Komikku",
             "com.github.gmg137.netease-cloud-music-gtk",
@@ -1055,7 +1056,6 @@
             "org.codeblocks.codeblocks"
         ],
         "org.gnome.Platform//40": [
-            "org.gnome.Firmware",
             "org.freefilesync.FreeFileSync",
             "org.sugarlabs.Maze",
             "io.github.jliljebl.Flowblade",
