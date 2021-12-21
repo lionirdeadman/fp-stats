@@ -4387,10 +4387,10 @@
                 "org.kde.Platform//6.2": 10,
                 "org.kde.Platform//5.15-21.08": 161,
                 "org.kde.Sdk//5.15-21.08": 1,
-                "org.kde.Platform//5.15": 153,
+                "org.kde.Platform//5.15": 154,
                 "org.kde.Sdk//5.15": 3,
                 "org.kde.Platform//5.14": 17,
-                "org.kde.Platform//5.12": 13,
+                "org.kde.Platform//5.12": 12,
                 "org.kde.Platform//5.9": 1
             }
         },
