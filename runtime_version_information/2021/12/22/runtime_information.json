@@ -568,6 +568,7 @@
             "net.sourceforge.Fillets",
             "chat.schildi.desktop",
             "io.github.cmus.cmus",
+            "com.stepmania.StepMania",
             "me.kozec.syncthingtk",
             "com.microsoft.Teams",
             "com.github.IsmaelMartinez.teams_for_linux",
@@ -1329,7 +1330,6 @@
             "org.small_tech.Gnomit",
             "org.midori_browser.Midori",
             "net.sourceforge.Teo",
-            "com.stepmania.StepMania",
             "org.gabmus.unifydmin",
             "org.geeqie.Geeqie",
             "io.gitlab.Turtlico"
