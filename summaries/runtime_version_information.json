@@ -4334,9 +4334,9 @@
             },
             "GNOME": {
                 "org.gnome.Platform//41beta": 1,
-                "org.gnome.Platform//41": 163,
+                "org.gnome.Platform//41": 164,
                 "org.gnome.Sdk//41": 2,
-                "org.gnome.Platform//40": 191,
+                "org.gnome.Platform//40": 190,
                 "org.gnome.Sdk//40": 1,
                 "org.gnome.Platform//3.38": 47,
                 "org.gnome.Sdk//3.38": 2,
