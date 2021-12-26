@@ -443,6 +443,7 @@
             "org.omegat.OmegaT",
             "com.github.tmewett.BrogueCE",
             "org.filezillaproject.Filezilla",
+            "com.github.iortcw.iortcw",
             "org.zaproxy.ZAP",
             "com.github.AmatCoder.mednaffe",
             "com.jgraph.drawio.desktop",
