@@ -19,7 +19,6 @@
             "org.kde.katomic",
             "org.kde.ktrip",
             "org.kde.minuet",
-            "org.gottcode.FocusWriter",
             "org.qutebrowser.qutebrowser",
             "org.DolphinEmu.dolphin-emu",
             "org.ksnip.ksnip",
@@ -127,7 +126,6 @@
             "org.kde.kig",
             "com.obsproject.Studio",
             "org.kde.ktuberling",
-            "com.github.rssguard",
             "com.makemkv.MakeMKV",
             "net.mediaarea.DVAnalyzer",
             "org.kde.keysmith",
@@ -1078,7 +1076,6 @@
             "org.gnome.design.Typography",
             "org.gnome.dfeet",
             "org.gnome.Podcasts",
-            "fr.free.Homebank",
             "org.sugarlabs.Paint",
             "org.sugarlabs.Chess",
             "de.haeckerfelix.Fragments",
@@ -1343,8 +1340,7 @@
             "com.github.JannikHv.Gydl",
             "org.laptop.TurtleArtActivity",
             "com.github.bcedu.valasimplehttpserver",
-            "org.caione.GScope",
-            "org.xiphos.Xiphos"
+            "org.caione.GScope"
         ],
         "org.gnome.Platform//3.32": [
             "mx.pwmc.Svgvi",
