@@ -10,6 +10,7 @@
             "org.gottcode.Hexalate",
             "org.gottcode.Gottet",
             "org.gottcode.CuteMaze",
+            "net.wz2100.wz2100",
             "org.gottcode.Tetzle",
             "org.gottcode.NovProg",
             "app.lith.Lith"
@@ -335,7 +336,6 @@
             "org.hedgewars.Hedgewars",
             "net.sourceforge.QtSpim",
             "org.pencil2d.Pencil2D",
-            "net.wz2100.wz2100",
             "org.mapeditor.Tiled",
             "net.sourceforge.projectM",
             "org.telesculptor.TeleSculptor",
