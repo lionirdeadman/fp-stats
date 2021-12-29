@@ -1145,6 +1145,7 @@
             "io.github.achetagames.epic_asset_manager",
             "org.gnome.Characters",
             "com.github.xournalpp.xournalpp",
+            "net.kirgroup.confy",
             "org.free_astro.siril",
             "com.axosoft.GitKraken",
             "org.cockpit_project.CockpitClient",
@@ -1390,7 +1391,6 @@
             "org.tabos.maxcontrol",
             "org.gnome.Pinpoint",
             "org.synfig.SynfigStudio",
-            "net.kirgroup.confy",
             "com.uploadedlobster.peek"
         ],
         "org.gnome.Sdk//3.38": [

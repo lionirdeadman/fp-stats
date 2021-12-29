@@ -4550,11 +4550,11 @@
             },
             "GNOME": {
                 "org.gnome.Platform//41beta": 1,
-                "org.gnome.Platform//41": 211,
+                "org.gnome.Platform//41": 212,
                 "org.gnome.Sdk//41": 3,
                 "org.gnome.Platform//40": 184,
                 "org.gnome.Sdk//40": 1,
-                "org.gnome.Platform//3.38": 47,
+                "org.gnome.Platform//3.38": 46,
                 "org.gnome.Sdk//3.38": 2,
                 "org.gnome.Platform//3.36": 23,
                 "org.gnome.Sdk//3.36": 1,
