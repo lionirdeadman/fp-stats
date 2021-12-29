@@ -1168,8 +1168,7 @@
         "org.gabmus.unifydmin",
         "org.kosmospredanie.Yakblt",
         "org.geeqie.Geeqie",
-        "io.github.wereturtle.ghostwriter",
-        "io.gitlab.Turtlico"
+        "io.github.wereturtle.ghostwriter"
     ],
     "i386": [
         "de.ifw_dresden.nagstamon",

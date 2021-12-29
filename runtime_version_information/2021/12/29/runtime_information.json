@@ -1149,7 +1149,8 @@
             "org.free_astro.siril",
             "com.axosoft.GitKraken",
             "org.cockpit_project.CockpitClient",
-            "org.gnome.Rhythmbox3"
+            "org.gnome.Rhythmbox3",
+            "io.gitlab.Turtlico"
         ],
         "org.gnome.Sdk//41": [
             "org.gnome.Builder",
@@ -1419,8 +1420,7 @@
             "org.midori_browser.Midori",
             "net.sourceforge.Teo",
             "org.gabmus.unifydmin",
-            "org.geeqie.Geeqie",
-            "io.gitlab.Turtlico"
+            "org.geeqie.Geeqie"
         ],
         "org.gnome.Sdk//3.36": [
             "com.github.mikacousin.olc"
