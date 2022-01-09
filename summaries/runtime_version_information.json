@@ -5886,9 +5886,9 @@
         },
         "1641686400.0": {
             "Freedesktop": {
-                "org.freedesktop.Platform//21.08": 242,
+                "org.freedesktop.Platform//21.08": 243,
                 "org.freedesktop.Sdk//21.08": 24,
-                "org.freedesktop.Platform//20.08": 186,
+                "org.freedesktop.Platform//20.08": 185,
                 "org.freedesktop.Sdk//20.08": 9,
                 "org.freedesktop.Sdk//19.08": 4,
                 "org.freedesktop.Platform//19.08": 41,
@@ -5896,9 +5896,9 @@
             },
             "GNOME": {
                 "org.gnome.Platform//41beta": 1,
-                "org.gnome.Platform//41": 222,
+                "org.gnome.Platform//41": 223,
                 "org.gnome.Sdk//41": 3,
-                "org.gnome.Platform//40": 175,
+                "org.gnome.Platform//40": 174,
                 "org.gnome.Sdk//40": 1,
                 "org.gnome.Platform//3.38": 46,
                 "org.gnome.Sdk//3.38": 2,
