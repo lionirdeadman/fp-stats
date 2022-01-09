@@ -1064,6 +1064,7 @@
             "io.github.xverizex.nem_desktop",
             "dev.atoft.Reactions",
             "com.belmoussaoui.ashpd.demo",
+            "org.xiphos.Xiphos",
             "info.portfolio_performance.PortfolioPerformance",
             "io.github.mpobaschnig.Vaults",
             "com.github.geigi.cozy",
@@ -1431,8 +1432,7 @@
             "com.github.JannikHv.Gydl",
             "org.laptop.TurtleArtActivity",
             "com.github.bcedu.valasimplehttpserver",
-            "org.caione.GScope",
-            "org.xiphos.Xiphos"
+            "org.caione.GScope"
         ],
         "org.gnome.Platform//3.32": [
             "mx.pwmc.Svgvi",
