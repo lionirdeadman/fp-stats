@@ -435,11 +435,11 @@
         "1642032000.0": {
             "Freedesktop": {
                 "org.freedesktop.Platform//21.08": 246,
-                "org.freedesktop.Sdk//21.08": 24,
+                "org.freedesktop.Sdk//21.08": 25,
                 "org.freedesktop.Sdk//20.08": 9,
                 "org.freedesktop.Platform//20.08": 183,
                 "org.freedesktop.Platform//19.08": 41,
-                "org.freedesktop.Sdk//19.08": 4,
+                "org.freedesktop.Sdk//19.08": 3,
                 "org.freedesktop.Platform//18.08": 15
             },
             "GNOME": {

@@ -266,6 +266,7 @@
             "com.jetbrains.Rider",
             "fr.natron.Natron",
             "com.jetbrains.IntelliJ-IDEA-Community",
+            "com.sublimetext.three",
             "org.flathub.flatpak-external-data-checker",
             "com.jetbrains.PyCharm-Professional",
             "com.chez.GrafX2",
@@ -516,7 +517,6 @@
         "org.freedesktop.Sdk//19.08": [
             "io.brackets.Brackets",
             "org.aliflang.lang",
-            "com.sublimetext.three",
             "com.synology.CloudStationBackup"
         ],
         "org.freedesktop.Platform//18.08": [
