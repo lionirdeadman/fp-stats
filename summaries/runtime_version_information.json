@@ -434,7 +434,7 @@
         },
         "1642032000.0": {
             "Freedesktop": {
-                "org.freedesktop.Platform//21.08": 245,
+                "org.freedesktop.Platform//21.08": 246,
                 "org.freedesktop.Sdk//21.08": 24,
                 "org.freedesktop.Sdk//20.08": 9,
                 "org.freedesktop.Platform//20.08": 183,
@@ -461,7 +461,7 @@
                 "org.kde.Platform//6.2": 14,
                 "org.kde.Platform//5.15-21.08": 189,
                 "org.kde.Sdk//5.15-21.08": 2,
-                "org.kde.Platform//5.15": 142,
+                "org.kde.Platform//5.15": 141,
                 "org.kde.Sdk//5.15": 3,
                 "org.kde.Platform//5.14": 16,
                 "org.kde.Platform//5.12": 12,
