@@ -251,6 +251,7 @@
             "org.unknown_horizons.UnknownHorizons"
         ],
         "org.freedesktop.Sdk//21.08": [
+            "io.gdevs.GDLauncher",
             "com.jetbrains.CLion",
             "com.vscodium.codium",
             "org.apache.netbeans",
@@ -276,17 +277,6 @@
             "org.geany.Geany",
             "org.gnu.emacs",
             "com.jetbrains.RubyMine"
-        ],
-        "org.freedesktop.Sdk//20.08": [
-            "io.gdevs.GDLauncher",
-            "com.jetbrains.GoLand",
-            "com.sublimemerge.App",
-            "com.unity.UnityHub",
-            "app.midterm.MidtermDesktop",
-            "org.scilab.Scilab",
-            "com.visualstudio.code.insiders",
-            "io.atom.Atom",
-            "com.synology.SynologyDrive"
         ],
         "org.freedesktop.Platform//20.08": [
             "com.github.rkoesters.xkcd-gtk",
@@ -470,6 +460,16 @@
             "org.hikounomizu.HikouNoMizu",
             "io.webtorrent.WebTorrent",
             "com.shatteredpixel.shatteredpixeldungeon"
+        ],
+        "org.freedesktop.Sdk//20.08": [
+            "com.jetbrains.GoLand",
+            "com.sublimemerge.App",
+            "com.unity.UnityHub",
+            "app.midterm.MidtermDesktop",
+            "org.scilab.Scilab",
+            "com.visualstudio.code.insiders",
+            "io.atom.Atom",
+            "com.synology.SynologyDrive"
         ],
         "org.freedesktop.Platform//19.08": [
             "com.thebrokenrail.MCPIReborn",
