@@ -250,6 +250,7 @@
             "com.seventhstring.Transcribe",
             "org.openstreetmap.josm",
             "com.anydesk.Anydesk",
+            "org.hikounomizu.HikouNoMizu",
             "com.github.tglima.Myfluttercrypto",
             "org.unknown_horizons.UnknownHorizons"
         ],
@@ -457,7 +458,6 @@
             "net.displaycal.DisplayCAL",
             "net.sourceforge.pdfchain",
             "org.homelinuxserver.vance.biblereader",
-            "org.hikounomizu.HikouNoMizu",
             "io.webtorrent.WebTorrent",
             "com.shatteredpixel.shatteredpixeldungeon"
         ],
