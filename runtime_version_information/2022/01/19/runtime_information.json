@@ -1345,6 +1345,7 @@
             "org.gnome.Taquin"
         ],
         "org.gnome.Sdk//40": [
+            "com.github.mikacousin.olc",
             "com.github.corna.Vivado"
         ],
         "org.gnome.Platform//3.38": [
@@ -1420,9 +1421,6 @@
             "com.github.mdh34.quickdocs",
             "com.github.alainm23.byte",
             "com.github.bajoja.indicator-kdeconnect"
-        ],
-        "org.gnome.Sdk//3.36": [
-            "com.github.mikacousin.olc"
         ],
         "org.gnome.Platform//3.34": [
             "org.caione.GScope",
