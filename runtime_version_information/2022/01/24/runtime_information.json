@@ -1049,6 +1049,7 @@
     "KDE": {
         "org.kde.Platform//6.2": [
             "org.gottcode.Simsu",
+            "dev.lukebriggs.pepys",
             "org.strawberrymusicplayer.strawberry",
             "org.gottcode.Connectagram",
             "org.gottcode.Gottet",
@@ -1264,7 +1265,6 @@
         ],
         "org.kde.Platform//5.15": [
             "org.photoqt.PhotoQt",
-            "dev.lukebriggs.pepys",
             "io.github.qtox.qTox",
             "io.github.Cockatrice.cockatrice",
             "net.sourceforge.QtSpim",
