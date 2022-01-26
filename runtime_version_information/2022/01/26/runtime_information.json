@@ -264,6 +264,7 @@
             "org.gnu.emacs",
             "com.visualstudio.code-oss",
             "com.chez.GrafX2",
+            "com.jetbrains.GoLand",
             "org.geany.Geany",
             "io.neovim.nvim",
             "com.jetbrains.WebStorm",
@@ -465,7 +466,6 @@
         "org.freedesktop.Sdk//20.08": [
             "com.sublimemerge.App",
             "com.synology.SynologyDrive",
-            "com.jetbrains.GoLand",
             "com.visualstudio.code.insiders",
             "org.scilab.Scilab",
             "io.atom.Atom",
