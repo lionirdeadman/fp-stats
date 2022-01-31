@@ -251,9 +251,9 @@
         },
         "1643587200.0": {
             "Freedesktop": {
-                "org.freedesktop.Platform//21.08": 261,
+                "org.freedesktop.Platform//21.08": 262,
                 "org.freedesktop.Sdk//21.08": 27,
-                "org.freedesktop.Platform//20.08": 172,
+                "org.freedesktop.Platform//20.08": 171,
                 "org.freedesktop.Sdk//20.08": 7,
                 "org.freedesktop.Platform//19.08": 38,
                 "org.freedesktop.Sdk//19.08": 3,
