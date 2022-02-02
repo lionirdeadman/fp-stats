@@ -2,7 +2,7 @@
     "runtime_architecture_information": {
         "1643760000.0": {
             "aarch64": 1081,
-            "arm": 78,
+            "arm": 77,
             "i386": 23,
             "x86_64": 1366
         },
