@@ -5729,10 +5729,10 @@
                 "org.kde.Platform//6.2": 15,
                 "org.kde.Platform//5.15-21.08": 208,
                 "org.kde.Sdk//5.15-21.08": 2,
-                "org.kde.Platform//5.15": 121,
+                "org.kde.Platform//5.15": 122,
                 "org.kde.Sdk//5.15": 3,
                 "org.kde.Platform//5.14": 16,
-                "org.kde.Platform//5.12": 12,
+                "org.kde.Platform//5.12": 11,
                 "org.kde.Platform//5.9": 1
             }
         },
