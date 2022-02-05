@@ -5701,6 +5701,41 @@
                 "org.kde.Platform//5.9": 1
             }
         },
+        "1644019200.0": {
+            "Freedesktop": {
+                "org.freedesktop.Platform//21.08": 267,
+                "org.freedesktop.Sdk//21.08": 27,
+                "org.freedesktop.Platform//20.08": 168,
+                "org.freedesktop.Sdk//20.08": 7,
+                "org.freedesktop.Platform//19.08": 36,
+                "org.freedesktop.Sdk//19.08": 3,
+                "org.freedesktop.Platform//18.08": 14
+            },
+            "GNOME": {
+                "org.gnome.Platform//41beta": 1,
+                "org.gnome.Platform//41": 235,
+                "org.gnome.Sdk//41": 3,
+                "org.gnome.Platform//40": 164,
+                "org.gnome.Sdk//40": 2,
+                "org.gnome.Platform//3.38": 45,
+                "org.gnome.Sdk//3.38": 2,
+                "org.gnome.Platform//3.36": 20,
+                "org.gnome.Platform//3.34": 6,
+                "org.gnome.Platform//3.32": 3,
+                "org.gnome.Platform//3.28": 1,
+                "org.gnome.Platform//3.26": 1
+            },
+            "KDE": {
+                "org.kde.Platform//6.2": 15,
+                "org.kde.Platform//5.15-21.08": 208,
+                "org.kde.Sdk//5.15-21.08": 2,
+                "org.kde.Platform//5.15": 122,
+                "org.kde.Sdk//5.15": 3,
+                "org.kde.Platform//5.14": 16,
+                "org.kde.Platform//5.12": 11,
+                "org.kde.Platform//5.9": 1
+            }
+        },
         "1643932800.0": {
             "Freedesktop": {
                 "org.freedesktop.Platform//21.08": 267,
