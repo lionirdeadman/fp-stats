@@ -1209,6 +1209,7 @@
             "com.github.subhadeepjasu.pebbles",
             "io.github.lainsce.Quilter",
             "org.sugarlabs.ReadETexts",
+            "com.github.JannikHv.Gydl",
             "com.github.edenalencar.identifications",
             "org.gnome.GHex",
             "org.gnome.Books",
@@ -1425,7 +1426,6 @@
         "org.gnome.Platform//3.34": [
             "nl.openoffice.bluefish",
             "org.caione.GScope",
-            "com.github.JannikHv.Gydl",
             "com.vinszent.GnomeTwitch",
             "com.github.bcedu.valasimplehttpserver",
             "org.laptop.TurtleArtActivity"
