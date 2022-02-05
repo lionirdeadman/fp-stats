@@ -1172,7 +1172,8 @@
             "io.github.achetagames.epic_asset_manager",
             "nl.g4d.Girens",
             "org.gnome.gedit",
-            "com.github.afrantzis.Bless"
+            "com.github.afrantzis.Bless",
+            "com.gitlab.newsflash"
         ],
         "org.gnome.Sdk//41": [
             "org.gnome.Builder",
@@ -1342,8 +1343,7 @@
             "com.syntevo.SmartSynchronize",
             "org.sugarlabs.Words",
             "org.gnome.Sudoku",
-            "io.github.ImEditor",
-            "com.gitlab.newsflash"
+            "io.github.ImEditor"
         ],
         "org.gnome.Sdk//40": [
             "com.github.mikacousin.olc",
