@@ -802,6 +802,7 @@
         "com.github.devalien.workspaces",
         "org.pyzo.pyzo",
         "net.sourceforge.Klavaro",
+        "com.mousepawmedia.omission",
         "com.georgefb.mangareader",
         "org.btchd.btchd-qt",
         "org.pjbroad.EternallandsClient",
@@ -1084,7 +1085,6 @@
         "com.github.carlos157oliveira.Calculus"
     ],
     "arm": [
-        "org.nomacs.ImageLounge",
         "cat.xtec.clic.JClic",
         "net.jammr.jammr",
         "com.github.bajoja.indicator-kdeconnect",
