@@ -942,6 +942,7 @@
             "org.gnome.Logs",
             "io.github.lainsce.Khronos",
             "com.belmoussaoui.Decoder",
+            "nl.openoffice.bluefish",
             "org.gnome.Connections",
             "org.gnome.Maps",
             "org.gnome.BreakTimer",
@@ -1427,7 +1428,6 @@
             "com.endlessm.photos"
         ],
         "org.gnome.Platform//3.34": [
-            "nl.openoffice.bluefish",
             "org.caione.GScope",
             "com.vinszent.GnomeTwitch",
             "org.laptop.TurtleArtActivity"
