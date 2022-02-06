@@ -1365,7 +1365,6 @@
         ],
         "org.gnome.Platform//3.38": [
             "com.gitlab.adnan338.Invoicer",
-            "com.github.tenderowl.norka",
             "com.gitlab.adnan338.Nixwriter",
             "net.christianbeier.Gromit-MPX",
             "org.gnome.Pinpoint",
