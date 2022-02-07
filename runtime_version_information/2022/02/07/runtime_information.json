@@ -539,6 +539,7 @@
     },
     "KDE": {
         "org.kde.Platform//6.2": [
+            "ch.protonmail.protonmail-bridge",
             "net.wz2100.wz2100",
             "org.gottcode.NovProg",
             "org.gottcode.Peg-E",
@@ -566,7 +567,6 @@
             "net.codeindustry.MasterPDFEditor",
             "in.srev.guiscrcpy",
             "org.openclonk.OpenClonk",
-            "ch.protonmail.protonmail-bridge",
             "org.kde.ktouch",
             "org.kde.okteta",
             "net.mediaarea.DVAnalyzer",
@@ -690,6 +690,7 @@
             "org.atheme.audacious",
             "io.github.cges30901.hmtimer",
             "org.kde.kclock",
+            "org.electrum.electrum",
             "org.kde.pix",
             "org.kde.lokalize",
             "org.freecadweb.FreeCAD",
@@ -843,7 +844,6 @@
             "com.github.buddhi1980.mandelbulber2",
             "io.photoflare.photoflare",
             "net.mediaarea.AVIMetaEdit",
-            "org.electrum.electrum",
             "com.github.iwalton3.jellyfin-media-player",
             "net.sourceforge.Chessx",
             "net.shrew.ike.qikea",
