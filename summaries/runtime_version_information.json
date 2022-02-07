@@ -5692,9 +5692,9 @@
             },
             "KDE": {
                 "org.kde.Platform//6.2": 15,
-                "org.kde.Platform//5.15-21.08": 209,
+                "org.kde.Platform//5.15-21.08": 210,
                 "org.kde.Sdk//5.15-21.08": 2,
-                "org.kde.Platform//5.15": 124,
+                "org.kde.Platform//5.15": 123,
                 "org.kde.Sdk//5.15": 3,
                 "org.kde.Platform//5.14": 15,
                 "org.kde.Platform//5.12": 9,
