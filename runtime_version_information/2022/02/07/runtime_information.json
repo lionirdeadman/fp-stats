@@ -760,6 +760,7 @@
             "org.kde.kweather",
             "com.nextcloud.desktopclient.nextcloud",
             "org.openshot.OpenShot",
+            "io.itch.azagaya.Laigter",
             "com.github.elth0r0.iqpuzzle",
             "org.kde.kgeography",
             "im.kaidan.kaidan",
@@ -915,8 +916,7 @@
             "org.gnode.NixView",
             "com.borgbase.Vorta",
             "com.ktechpit.wonderwall",
-            "org.guerinoni.qTsConverter",
-            "io.itch.azagaya.Laigter"
+            "org.guerinoni.qTsConverter"
         ],
         "org.kde.Platform//5.12": [
             "org.rolisteam.rolisteam",
