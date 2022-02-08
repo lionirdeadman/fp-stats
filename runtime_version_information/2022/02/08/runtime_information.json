@@ -18,6 +18,7 @@
             "org.sugarlabs.MusicBlocks",
             "org.manaplus.ManaPlus",
             "app.ytmdesktop.ytmdesktop",
+            "ch.protonmail.protonmail-bridge",
             "de.uni_heidelberg.zah.GaiaSky",
             "net.agalwood.Motrix",
             "chat.schildi.desktop",
@@ -539,7 +540,6 @@
     },
     "KDE": {
         "org.kde.Platform//6.2": [
-            "ch.protonmail.protonmail-bridge",
             "net.wz2100.wz2100",
             "org.gottcode.NovProg",
             "org.gottcode.Peg-E",
@@ -1026,6 +1026,7 @@
             "com.github.nrittsti.NTag",
             "com.github.alexr4535.siglo",
             "io.gitlab.leesonwai.Sums",
+            "org.freedesktop.fwupd",
             "com.leinardi.gst",
             "io.github.mpobaschnig.Vaults",
             "im.bernard.Nostalgia",
@@ -1253,7 +1254,6 @@
             "com.leinardi.gwe",
             "org.freefilesync.FreeFileSync",
             "org.gnome.design.SymbolicPreview",
-            "org.freedesktop.fwupd",
             "org.gnome.Klotski",
             "org.gnome.TwentyFortyEight",
             "com.github.qarmin.szyszka",
