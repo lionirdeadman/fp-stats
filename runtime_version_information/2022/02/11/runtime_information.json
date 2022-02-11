@@ -5,6 +5,7 @@
             "com.basemark.BasemarkGPU",
             "net.blockbench.Blockbench",
             "sh.ppy.osu",
+            "cat.xtec.clic.JClic",
             "org.love2d.love2d",
             "org.openstreetmap.josm",
             "io.github.arunsivaramanneo.GPUViewer",
@@ -514,7 +515,6 @@
             "org.scilab.Scilab"
         ],
         "org.freedesktop.Platform//19.08": [
-            "cat.xtec.clic.JClic",
             "me.njean.shootingpactris",
             "io.github.mki1967.mki3dgame",
             "com.avocode.Avocode",
