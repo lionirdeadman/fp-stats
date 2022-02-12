@@ -628,6 +628,7 @@
             "com.makemkv.MakeMKV",
             "org.musescore.MuseScore",
             "org.openmw.OpenMW",
+            "org.polymc.PolyMC",
             "com.github.rssguard",
             "com.darhon.syncbackup",
             "com.polyphone_soundfonts.polyphone",
@@ -839,7 +840,6 @@
             "com.nextcloud.desktopclient.nextcloud",
             "org.openshot.OpenShot",
             "io.itch.azagaya.Laigter",
-            "com.github.elth0r0.iqpuzzle",
             "org.kde.kgeography",
             "im.kaidan.kaidan",
             "ch.theologeek.Manuskript",
@@ -866,7 +866,6 @@
             "eu.scarpetta.PDFMixTool",
             "cc.retroshare.retroshare-gui",
             "com.codemouse92.timecard",
-            "org.polymc.PolyMC",
             "org.pencil2d.Pencil2D",
             "org.subsurface_divelog.Subsurface",
             "org.groestlcoin.electrum-grs",
@@ -972,6 +971,7 @@
             "com.sayonara_player.Sayonara",
             "info.bibletime.BibleTime",
             "org.kde.vvave",
+            "com.github.elth0r0.iqpuzzle",
             "org.kde.skrooge"
         ],
         "org.kde.Sdk//5.15": [
