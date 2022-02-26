@@ -590,6 +590,7 @@
             "com.rtosta.zapzap",
             "org.gottcode.Gottet",
             "net.sourceforge.VMPK",
+            "org.bunkus.mkvtoolnix-gui",
             "org.gottcode.Connectagram"
         ],
         "org.kde.Sdk//6.2": [
@@ -953,7 +954,6 @@
             "re.chiaki.Chiaki",
             "com.kristianduske.TrenchBroom",
             "org.wireshark.Wireshark",
-            "org.bunkus.mkvtoolnix-gui",
             "org.opentransactions.metier",
             "org.munadi.Munadi",
             "org.quassel_irc.QuasselClient",
