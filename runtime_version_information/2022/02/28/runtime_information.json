@@ -303,6 +303,7 @@
             "com.github.reds.LogisimEvolution",
             "org.flycast.Flycast",
             "io.exodus.Exodus",
+            "com.wings3d.WINGS",
             "io.gitlab.librewolf-community",
             "com.bladecoder.adventure-editor",
             "org.virtualxt.VirtualXT",
@@ -502,7 +503,6 @@
             "com.github.reduz.ChibiTracker",
             "io.github.torbuntu.Leikr",
             "net.unvanquished.Unvanquished",
-            "com.wings3d.WINGS",
             "org.freecol.FreeCol",
             "id.sideka.App"
         ],
