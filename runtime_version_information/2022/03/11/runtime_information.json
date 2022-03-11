@@ -955,6 +955,7 @@
             "com.kristianduske.TrenchBroom",
             "org.opentransactions.metier",
             "org.munadi.Munadi",
+            "org.mobsya.ThymioSuite",
             "org.quassel_irc.QuasselClient",
             "com.github.Qv2ray",
             "com.github.debauchee.barrier",
@@ -1000,8 +1001,7 @@
             "io.liri.Text",
             "io.liri.Calculator",
             "io.botfather.Botfather",
-            "de.ifw_dresden.nagstamon",
-            "org.mobsya.ThymioSuite"
+            "de.ifw_dresden.nagstamon"
         ],
         "org.kde.Platform//5.9": [
             "com.remarkable.reMarkable"
