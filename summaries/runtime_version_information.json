@@ -8121,9 +8121,9 @@
                 "org.gnome.Platform//3.26": 1
             },
             "KDE": {
-                "org.kde.Platform//6.2": 22,
+                "org.kde.Platform//6.2": 23,
                 "org.kde.Sdk//6.2": 2,
-                "org.kde.Platform//5.15-21.08": 252,
+                "org.kde.Platform//5.15-21.08": 251,
                 "org.kde.Sdk//5.15-21.08": 2,
                 "org.kde.Platform//5.15": 117,
                 "org.kde.Sdk//5.15": 3,
